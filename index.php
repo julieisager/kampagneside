@@ -21,7 +21,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
 	<div class="container-fluid">
 
-        <div  class="bg-secondary my-2" style="height: 100px;">
+        <div>
             <div class="col bg-lilla p-2 d-flex justify-content-center align-items-center" id="kasse2"></div>
         </div>
 
