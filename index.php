@@ -20,6 +20,12 @@
 
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
 	<div class="container-fluid">
+
+        <div  class="bg-secondary my-2" style="height: 100px;">
+            <div class="col bg-lilla p-2 d-flex justify-content-center align-items-center" id="kasse2"></div>
+        </div>
+
+
 		<a class="navbar-brand" href="#">
 			<img src="image/veteranhaven_logo_farver.png" alt="logo" id="logo">
 		</a>
@@ -56,7 +62,10 @@
 
 				<li class="nav-item" id="stot">
 					<a class="nav-link active" aria-current="page" href="#">Støt</a>
-				</li>
+
+
+
+                </li>
 
 				<li class="nav-item">
 					<a class="nav-link active" aria-current="page" href="#">Kontakt</a>

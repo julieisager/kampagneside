@@ -99,5 +99,35 @@ body{
 }
 
 #stot{
-	color: #907CB0;
+	@media #{$tablet}{
+		#stot{
+			position: relative;
+		}
+
+		#kasse2{
+			position: absolute;
+			bottom: 0;
+			left: 1087px;
+			height: 200px;
+			width: 50px;
+
+		}
+	}
+	@media #{$computer}{
+		#stot{
+			position: relative;
+		}
+
+		#kasse2{
+			position: absolute;
+			bottom: 0;
+			left: 1087px;
+			height: 200px;
+			width: 50px;
+
+
+		}
+	}
+
 }
+
