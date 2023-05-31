@@ -1,0 +1,98 @@
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import "../node_modules/bootstrap/scss/functions";
+
+// 2. Include any default variable overrides here
+$link-decoration: none;
+
+// 3. Include remainder of required Bootstrap stylesheets
+@import "../node_modules/bootstrap/scss/variables";
+
+// 4. Include any default map overrides here
+$custom-colors: (
+	"farve": $cyan-400,
+	"baggrund": #F0EDED,
+	"gron": #C0D894,
+	"lilla": #907CB0,
+);
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+@import "bootstrapComponents";
+
+// 5. Du kan lave styling her...
+
+
+
+
+
+$mobil: "screen and (min-width: 0)";
+$tablet: "screen and (min-width: 768px)";
+$computer: "screen and (min-width: 1200px)";
+
+body{
+	@media #{$mobil}{
+		font-size: small;
+	}
+	@media #{$tablet}{
+		font-size: medium;
+	}
+	@media #{$computer}{
+		font-size: large;
+	}
+}
+
+
+.line{
+	border-right: 1px solid gray;
+}
+
+.icons{
+	@media #{$mobil}{
+		font-size: xx-large;
+	}
+	@media #{$tablet}{
+		font-size: xx-large;
+	}
+	@media #{$computer}{
+		font-size: xxx-large;
+	}
+	color: #5c636a;
+
+}
+
+#RSV{
+	@media #{$mobil}{
+		height: 140px;
+	}
+	@media #{$tablet}{
+		height: 150px;
+	}
+	@media #{$computer}{
+		height: 150px;
+	}
+}
+
+#logo{
+	@media #{$mobil}{
+		height: 70px;
+	}
+	@media #{$tablet}{
+		height: 80px;
+	}
+	@media #{$computer}{
+		height: 90px;
+	}
+}
+
+#find{
+	@media #{$mobil}{
+		font-size: 15px;
+	}
+	@media #{$tablet}{
+		font-size: 20px;
+	}
+	@media #{$computer}{
+		font-size: 25px;
+	}
+
+}
