@@ -62,7 +62,7 @@
                     <div class="col bg-lilla p-2 d-flex" id="kasse2"></div>
 
 
-				<li class="nav-item" id="stot">
+				<li class="nav-item arrow" id="stot">
 					<a class="nav-link active" aria-current="page" href="#">Støt</a>
                 </li>
 
