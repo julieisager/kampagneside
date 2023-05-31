@@ -128,11 +128,8 @@ body{
 
 #kasse{
 	position: absolute;
-
-
-	top: calc(100% + -430px);
-	left: calc(50% - -225px);
-
+	top: 0;
+	left: auto;
 
 	width: 0;
 	height: 0;
