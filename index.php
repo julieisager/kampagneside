@@ -94,7 +94,12 @@
 
 
 <div class="container-fluid bg-gron p-3">
-	<div class="row">
+
+    <div>
+        <div class="col bg-lilla d-flex justify-content-center align-items-center" id="kasse"></div>
+    </div>
+
+	<div class="row mt-4">
 		<div class="col-5">
 			<div class="card">
 				<div class="card-body">
