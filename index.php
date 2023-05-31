@@ -21,9 +21,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
 	<div class="container-fluid">
 
-        <div>
-            <div class="col bg-lilla p-2 d-flex justify-content-center align-items-center" id="kasse2"></div>
-        </div>
+
 
 
 		<a class="navbar-brand" href="#">
@@ -62,8 +60,9 @@
 
 				<li class="nav-item" id="stot">
 					<a class="nav-link active" aria-current="page" href="#">Støt</a>
-
-
+                    <div>
+                        <div class="col bg-lilla p-2 d-flex" id="kasse2"></div>
+                    </div>
 
                 </li>
 
