@@ -96,7 +96,7 @@
 <div class="container-fluid bg-gron p-3" id="arrow">
 
     <div>
-        <div class="col bg-lilla d-flex justify-content-center align-items-center" id="kasse"></div>
+        <div class="col d-flex " id="kasse"></div>
     </div>
 
 	<div class="row mt-5">
