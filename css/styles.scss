@@ -128,8 +128,11 @@ body{
 
 #kasse{
 	position: absolute;
-	top: 0;
-	left: auto;
+
+
+	top: calc(100% + 10px);
+	left: calc(50% - 25px);
+
 
 	width: 0;
 	height: 0;
@@ -137,7 +140,6 @@ body{
 	border-right: 25px solid transparent;
 	border-top: 50px solid #907CB0;
 	margin: 0 auto;
-
 
 }
 
