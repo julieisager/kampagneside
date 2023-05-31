@@ -43,6 +43,9 @@ body{
 
 
 .line{
+	@media #{$mobil}{
+		border: none;
+	}
 	@media #{$tablet}{
 		border-right: 1px solid gray;
 	}
