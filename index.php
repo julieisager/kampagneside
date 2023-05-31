@@ -58,13 +58,15 @@
 					</ul>
 				</li>
 
+                <div>
+                    <div class="col bg-lilla p-2 d-flex" id="kasse2"></div>
+
+
 				<li class="nav-item" id="stot">
 					<a class="nav-link active" aria-current="page" href="#">Støt</a>
-                    <div>
-                        <div class="col bg-lilla p-2 d-flex" id="kasse2"></div>
-                    </div>
-
                 </li>
+
+                </div>
 
 				<li class="nav-item">
 					<a class="nav-link active" aria-current="page" href="#">Kontakt</a>
