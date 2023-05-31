@@ -11,7 +11,7 @@ $link-decoration: none;
 $custom-colors: (
 	"farve": $cyan-400,
 	"baggrund": #F0EDED,
-	"gron": #C0D894,
+	"gron": rgb(168,227,113),
 	"lilla": #907CB0,
 );
 
@@ -56,9 +56,10 @@ body{
 	@media #{$computer}{
 		font-size: xxx-large;
 	}
-	color: #5c636a;
+	color: #4d5154 !important;
 
 }
+
 
 #RSV{
 	@media #{$mobil}{
@@ -95,4 +96,8 @@ body{
 		font-size: 25px;
 	}
 
+}
+
+#stot{
+	color: #907CB0;
 }

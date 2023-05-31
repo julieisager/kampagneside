@@ -23,7 +23,7 @@
 		<a class="navbar-brand" href="#">
 			<img src="image/veteranhaven_logo_farver.png" alt="logo" id="logo">
 		</a>
-		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		<button style="border: none" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
 
@@ -54,7 +54,7 @@
 					</ul>
 				</li>
 
-				<li class="nav-item">
+				<li class="nav-item" id="stot">
 					<a class="nav-link active" aria-current="page" href="#">Støt</a>
 				</li>
 
@@ -121,7 +121,7 @@
 	</div>
 </div>
 
-<div class="container-fluid bg-light p-3">
+<div class="container-fluid bg-baggrund p-3">
 	<div class="row">
 		<div class="col-12 col-md-4 line mb-3 text-center">
 			<h5>Vores oplysninger</h5>
@@ -138,7 +138,7 @@
 			<h5>Genveje</h5>
 		</div>
 
-		<div class="col-12 col-md-4 mb-3 text-center">
+		<div class="col-12 col-md-4 mb-3 mt-4 text-center">
 			<img src="image/RSV.png" alt="RSV" id="RSV">
 		</div>
 	</div>
@@ -155,7 +155,7 @@
 		</div>
 
 		<div class="col text-end icons">
-			<a href="https://www.facebook.com/VeteranHaven">
+			<a href="https://www.facebook.com/VeteranHaven" style="color: #4d5154">
 				<i class="fa-brands fa-square-facebook"></i>
 			</a>
 		</div>
@@ -165,7 +165,7 @@
 		</div>
 
 		<div class="col text-end icons">
-			<i class="fa-brands fa-square-instagram"></i>
+            <i class="fa-brands fa-instagram"></i>
 		</div>
 
 	</div>
