@@ -93,13 +93,13 @@
 </nav>
 
 
-<div class="container-fluid bg-gron p-3">
+<div class="container-fluid bg-gron p-3" id="arrow">
 
     <div>
         <div class="col bg-lilla d-flex justify-content-center align-items-center" id="kasse"></div>
     </div>
 
-	<div class="row mt-4">
+	<div class="row mt-5">
 		<div class="col-5">
 			<div class="card">
 				<div class="card-body">
