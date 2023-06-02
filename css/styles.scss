@@ -104,6 +104,8 @@ body{
 	@media #{$computer}{
 		font-size: 25px;
 	}
+	display: flex;
+	align-items: center;
 
 }
 
