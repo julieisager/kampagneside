@@ -35,7 +35,7 @@
 			<ul class="navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end">
 
 				<li class="nav-item dropdown">
-					<a class="nav-link" href="#" id="navbarDropdownHvemErVi" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+					<a class="nav-link text-black mx-3" href="#" id="navbarDropdownHvemErVi" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 						Hvem er vi
 					</a>
 					<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -47,7 +47,7 @@
 				</li>
 
 				<li class="nav-item dropdown">
-					<a class="nav-link" href="#" id="navbarDropdownRSV" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+					<a class="nav-link text-black mx-3" href="#" id="navbarDropdownRSV" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 						RSV
 					</a>
 					<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -59,16 +59,16 @@
 				</li>
 
                 <div>
-                    <div class="col bg-lilla p-2 d-flex" id="kasse2"></div>
+                    <div class="col bg-lilla p-2 d-flex justify-content-center align-items-center" id="kasse2"></div>
                 </div>
 
-				<li class="nav-item" id="stot">
+				<li class="nav-item mx-3" id="stot">
 					<a class="nav-link active" aria-current="page" href="#">Støt</a>
                 </li>
 
 
 
-				<li class="nav-item">
+				<li class="nav-item mx-3">
 					<a class="nav-link active" aria-current="page" href="#">Kontakt</a>
 				</li>
 
