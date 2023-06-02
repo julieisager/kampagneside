@@ -142,35 +142,3 @@ body{
 }
 
 
-.bookmark {
-	width: 100px;
-	height: 200px;
-	background-color: #ffd700;
-	border-radius: 10px;
-	position: relative;
-	overflow: hidden;
-}
-
-.bookmark:before {
-	content: "";
-	position: absolute;
-	width: 0;
-	height: 0;
-	border-top: 25px solid transparent;
-	border-bottom: 25px solid transparent;
-	border-right: 50px solid #ffd700;
-	right: -25px;
-	top: 0;
-}
-
-.bookmark:after {
-	content: "";
-	position: absolute;
-	width: 50px;
-	height: 20px;
-	background-color: #ffd700;
-	bottom: -10px;
-	left: 50%;
-	transform: translateX(-50%);
-	border-radius: 50% / 10px;
-}

@@ -160,7 +160,7 @@
 	</div>
 </div>
 
-<div class="bookmark"></div>
+
 
 <div class="container-fluid bg-gron p-3">
 	<div class="row">
