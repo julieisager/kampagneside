@@ -164,10 +164,10 @@
 
 <div class="container-fluid bg-gron p-3">
 	<div class="row">
-		<div class="col-6 text-start d-flex align-items-center">
+		<div class="col-7 d-flex align-items-center">
 			Copyright 2023 VeteranHaven
 		</div>
-		<div class="col-2 text-end d-flex align-items-center" id="find">
+		<div class="col text-end d-flex align-items-center" id="find">
 			Find os her
 		</div>
 
@@ -175,13 +175,9 @@
 			<a href="https://www.facebook.com/VeteranHaven" style="color: #4d5154">
 				<i class="fa-brands fa-square-facebook"></i>
 			</a>
-		</div>
 
-		<div class="col text-end icons d-flex align-items-center">
-			<i class="fa-brands fa-linkedin"></i>
-		</div>
+			<i class="fa-brands fa-linkedin mx-5"></i>
 
-		<div class="col text-end icons d-flex align-items-center">
             <i class="fa-brands fa-instagram"></i>
 		</div>
 
