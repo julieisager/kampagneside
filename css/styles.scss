@@ -143,10 +143,10 @@ body{
 
 .card-overlap {
 	position: relative;
-	margin-bottom: -50px;
+	margin-bottom: -500px;
 	z-index: 1;
 }
 
 .card-overlap + .card-overlap {
-	margin-left: -20px;
+	margin-left: -200px;
 }
