@@ -165,7 +165,7 @@
 		<div class="col-6 text-start">
 			Copyright 2023 VeteranHaven
 		</div>
-		<div class="col-2 text-end" id="find">
+		<div class="col-2 text-end align-items-end" id="find">
 			Find os her
 		</div>
 
