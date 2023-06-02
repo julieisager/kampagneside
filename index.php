@@ -58,9 +58,10 @@
 					</ul>
 				</li>
 
-                <div>
-                    <div class="col bg-lilla p-2 d-flex justify-content-center align-items-center" id="kasse2"></div>
-                </div>
+                <li>
+                    <div class="col mx-3 bg-lilla p-2 d-flex" id="kasse2"></div>
+                </li>
+
 
 				<li class="nav-item mx-3" id="stot">
 					<a class="nav-link active" aria-current="page" href="#">Støt</a>
@@ -96,7 +97,7 @@
 
 <div class="container-fluid bg-gron p-3" id="arrow">
     <div>
-        <div class="col d-flex " id="kasse"></div>
+        <div class="col d-flex" id="kasse"></div>
     </div>
 
 
@@ -187,6 +188,12 @@
 </div>
 
 
+
+<div class="bookmark"></div>
+
+
+
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
 </body>
 </html>
