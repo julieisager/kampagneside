@@ -141,12 +141,4 @@ body{
 
 }
 
-.card-overlap {
-	position: relative;
-	margin-bottom: -500px;
-	z-index: 1;
-}
 
-.card-overlap + .card-overlap {
-	margin-left: -200px;
-}
