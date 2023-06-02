@@ -120,16 +120,16 @@
 <div class="container-fluid bg-white p-3" >
 	<div class="row">
 		<div class="col-5">
-			<div class="card">
-				<div class="card-body" id="underbillede">
+			<div class="card card-overlap">
+				<div class="card-body">
 					This is some text within a card body.
 					This is some text within a card body.
 				</div>
 			</div>
 		</div>
 		<div class="col-7">
-			<div class="card">
-				<div class="card-body" id="under">
+			<div class="card card-overlap">
+				<div class="card-body ">
 					This is some text within a card body.
 				</div>
 			</div>

@@ -141,12 +141,12 @@ body{
 
 }
 
-#under{
+.card-overlap {
 	position: relative;
-
+	margin-bottom: -50px;
+	z-index: 1;
 }
 
-#underbillede{
-	position: absolute;
-	left: 100px;
+.card-overlap + .card-overlap {
+	margin-left: -20px;
 }
