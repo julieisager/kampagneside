@@ -109,7 +109,7 @@ body{
 }
 
 
-
+@media #{$tablet}{
 #stot{
 	position: relative;
 }
@@ -139,6 +139,6 @@ body{
 	border-top: 50px solid #907CB0;
 	margin: 0 auto;
 
-}
+}}
 
 
