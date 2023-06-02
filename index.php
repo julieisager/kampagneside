@@ -117,7 +117,7 @@
 	</div>
 </div>
 
-<div class="container-fluid bg-white p-3" id="under">
+<div class="container-fluid bg-white p-3" >
 	<div class="row">
 		<div class="col-5">
 			<div class="card">
@@ -129,7 +129,7 @@
 		</div>
 		<div class="col-7">
 			<div class="card">
-				<div class="card-body">
+				<div class="card-body" id="under">
 					This is some text within a card body.
 				</div>
 			</div>
