@@ -164,24 +164,24 @@
 
 <div class="container-fluid bg-gron p-3">
 	<div class="row">
-		<div class="col-6 text-start">
+		<div class="col-6 text-start align-items-center">
 			Copyright 2023 VeteranHaven
 		</div>
-		<div class="col-2 text-end d-flex align-items-flex-end justify-content-flex-end" id="find">
+		<div class="col-2 text-end d-flex align-items-center" id="find">
 			Find os her
 		</div>
 
-		<div class="col text-end icons">
+		<div class="col text-end icons align-items-center">
 			<a href="https://www.facebook.com/VeteranHaven" style="color: #4d5154">
 				<i class="fa-brands fa-square-facebook"></i>
 			</a>
 		</div>
 
-		<div class="col text-end icons">
+		<div class="col text-end icons align-items-center">
 			<i class="fa-brands fa-linkedin"></i>
 		</div>
 
-		<div class="col text-end icons">
+		<div class="col text-end icons align-items-center">
             <i class="fa-brands fa-instagram"></i>
 		</div>
 
