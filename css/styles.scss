@@ -141,6 +141,17 @@ body{
 
 }
 
+.card-img{
+	@media #{$mobil}{
+		width: 50px;
+	}
+	@media #{$tablet}{
+		width: 200px;
+	}
+	@media #{$computer}{
+		width: 200px;
+	}
 
+}
 
 
