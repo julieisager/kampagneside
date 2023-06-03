@@ -96,13 +96,13 @@ body{
 
 #find{
 	@media #{$mobil}{
-		font-size: small;
+		font-size: 15px;
 	}
 	@media #{$tablet}{
-		font-size: medium;
+		font-size: 20px;
 	}
 	@media #{$computer}{
-		font-size: large;
+		font-size: 30px;
 	}
 }
 
