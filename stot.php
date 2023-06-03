@@ -69,7 +69,7 @@
     </div>
 </div>
 
-<div class="container-fluid bg-light">
+<div class="container-fluid bg-light d-flex justify-content-center">
     <div class="row">
         <div class="col-12 col-md-6">
 
