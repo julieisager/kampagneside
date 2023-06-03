@@ -67,7 +67,7 @@
 <div class="container-fluid bg-light">
     <div class="row">
         <div class="col text-center line2 mb-3 mt-3">
-            Sådan kan du støtte os
+            <h4>Sådan kan du støtte os</h4>
         </div>
     </div>
 </div>
@@ -125,24 +125,21 @@
 
 <div class="container-fluid bg-white">
     <div class="row">
-        <div class="col text-center">
-            Sponsoraftaler 2023
+        <div class="col text-center mb-3 mt-3">
+            <h4>Sponsoraftaler 2023</h4>
         </div>
     </div>
 </div>
 
 <div class="container-fluid bg-white" id="sponsor"
     <div class="row">
-        <div class="col-12 col-md-3">
+        <div class="col-12 col-md-3 d-flex text-center" style="width: 50px; height: 50px">
             <img src="image/Sponsor/velliv-foreningen-logotype-primary-orange-cmyk-removebg-preview.png" alt="velliv">
-        </div>
-        <div class="col-12 col-md-3">
+
             <img src="image/Sponsor/k.juby.png" alt="kjuby">
-        </div>
-        <div class="col-12 col-md-3">
+
             <img src="image/Sponsor/velux_fonden.png" alt="velux">
-        </div>
-        <div class="col-12 col-md-3">
+
             <img src="image/Sponsor/Ellegaard.png" alt="ellagaard">
         </div>
     </div>
