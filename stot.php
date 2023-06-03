@@ -17,6 +17,9 @@
 
 <body>
 
+<?php include "includes/menu.php";?>
+
+
 <div class="container-fluid bg-gron p-3">
     <div class="row">
         <div class="col d-flex justify-content-center">
@@ -146,6 +149,7 @@
 </div>
 
 
+<?php include "includes/footer.php";?>
 
 <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 

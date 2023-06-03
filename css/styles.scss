@@ -22,26 +22,13 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 // 5. Du kan lave styling her...
 
 
-
-
-
 $mobil: "screen and (min-width: 0)";
 $tablet: "screen and (min-width: 768px)";
 $computer: "screen and (min-width: 1200px)";
 
-body{
-	@media #{$mobil}{
-		font-size: small;
-	}
-	@media #{$tablet}{
-		font-size: medium;
-	}
-	@media #{$computer}{
-		font-size: large;
-	}
-}
 
 
+// menu/header og footer start
 .line{
 	@media #{$mobil}{
 		border: none;
@@ -68,7 +55,6 @@ body{
 	color: #4d5154 !important;
 
 }
-
 
 #RSV{
 	@media #{$mobil}{
@@ -119,7 +105,23 @@ body{
 	}
 }
 
+// menu/header og footer slut
 
+
+
+
+
+body{
+	@media #{$mobil}{
+		font-size: small;
+	}
+	@media #{$tablet}{
+		font-size: medium;
+	}
+	@media #{$computer}{
+		font-size: large;
+	}
+}
 
 
 .line2{
