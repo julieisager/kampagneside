@@ -141,4 +141,17 @@ body{
 
 }
 
+#sponsor{
+	@media #{$mobil}{
+		width: 100px;
+	}
+	@media #{$tablet}{
+		width: 100px;
+	}
+	@media #{$computer}{
+		width: 100px;
+	}
+
+}
+
 
