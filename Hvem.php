@@ -19,7 +19,18 @@
 
 <?php include "includes/menu.php";?>
 
-
+<div class="container-fluid bg-baggrund">
+    <div class="row">
+        <div class="col-12 col-md-6">
+            <img src="..." class="card-img-top" alt="...">
+        </div>
+        <div class="col-12 col-md-6 text-center">
+            <h3>Hvem er VeteranHaven</h3>
+            <p></p>
+            lorem ipsum
+        </div>
+    </div>
+</div>
 
 
 
