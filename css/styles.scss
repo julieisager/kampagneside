@@ -155,5 +155,18 @@ body{
 */
 
 
+.line2{
+	@media #{$mobil}{
+		border: none;
+	}
+	@media #{$tablet}{
+		border-bottom: 1px solid gray;
+	}
+	@media #{$computer}{
+		border-bottom: 1px solid gray;
+	}
+
+}
+
 
 

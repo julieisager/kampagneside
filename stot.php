@@ -63,7 +63,7 @@
 
 <div class="container-fluid bg-light">
     <div class="row">
-        <div class="col text-center">
+        <div class="col text-center line2">
             Sådan kan du støtte os
         </div>
     </div>
