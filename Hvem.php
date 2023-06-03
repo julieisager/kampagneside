@@ -19,7 +19,7 @@
 
 <?php include "includes/menu.php";?>
 
-<div class="container-fluid bg-baggrund">
+<div class="container-fluid bg-baggrund p-3">
     <div class="row">
         <div class="col-12 col-md-6">
             <img src="..." class="card-img-top" alt="...">
@@ -32,6 +32,46 @@
     </div>
 </div>
 
+
+
+
+<div class="container-fluid bg-baggrund p-3">
+    <div class="row">
+        <div class="col-12 col-md-6">
+            <div class="card-body">
+                <h5 class="card-title text-center mb-3">Igangværende projekter</h5>
+
+                <p class="card-text bg-white p-3 text-center h5">
+                Veteranborgen
+                    <br><br>
+                Orangeri
+                    <br><br>
+                Middelalderborg
+                    <br><br>
+                WC og Kloakering
+                </p>
+
+            </div>
+        </div>
+        <div class="col-12 col-md-6 text-center">
+            <div class="card-body">
+                <h5 class="card-title text-center mb-3">
+                    Læs mere på <a href="https://www.veteranhaven.dk/">VeteranHaven.dk</a>
+                </h5>
+                <p class="card-text bg-white p-3">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid bg-gron">
+    <div class="row">
+        <div class="col text-center mb-3 mt-3">
+            <h4>Vil du læse mere om VeteranHaven?</h4>
+        </div>
+    </div>
+</div>
 
 
 
