@@ -34,7 +34,7 @@
 
 
                 <li class="nav-item mx-3">
-                    <a class="nav-link active" aria-current="page" href="#">Kontakt</a>
+                    <a class="nav-link active" aria-current="page" href="FindOs.php">Kontakt</a>
                 </li>
 
             </ul>
