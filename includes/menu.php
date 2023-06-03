@@ -16,28 +16,14 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end">
 
-                <li class="nav-item dropdown">
-                    <a class="nav-link text-black mx-3" href="Hvem.php" id="navbarDropdownHvemErVi" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Hvem er vi
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
+
+                <li class="nav-item mx-3">
+                    <a class="nav-link active" aria-current="page" href="Hvem.php">Hvem er vi</a>
                 </li>
 
-                <li class="nav-item dropdown">
-                    <a class="nav-link text-black mx-3" href="#" id="navbarDropdownRSV" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        RSV
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
+
+                <li class="nav-item mx-3">
+                    <a class="nav-link active" aria-current="page" href="">RSV</a>
                 </li>
 
 
