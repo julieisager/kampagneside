@@ -78,9 +78,9 @@
 
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            <h5 class="card-title">Bliv en VeteranHave ven</h5>
+                            <p class="card-text">Som ven hjælper du stedet ved at deltage i fælleskabet og bidrager til hverdagens opgaver.</p>
+                            <a href="#" class="">Læs mere</a>
                         </div>
                     </div>
 
@@ -100,9 +100,9 @@
 
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            <h5 class="card-title">Støt vores projekter</h5>
+                            <p class="card-text">Stedet finansiseres af frivillige midler. Dette kan ske gennem legater, fonde eller bidrag fra private og virksomheder.</p>
+                            <a href="#" class="">Læs mere</a>
                         </div>
                     </div>
 
@@ -129,7 +129,7 @@
 
 <div class="container-fluid bg-white" id="sponsor"
     <div class="row">
-        <div class="col-12 col-md-3">
+        <div class="col-12 col-md-3" style="max-width: 40px;">
             <img src="image/Sponsor/velliv-foreningen-logotype-primary-orange-cmyk-removebg-preview.png" alt="velliv">
         </div>
         <div class="col-12 col-md-3">
