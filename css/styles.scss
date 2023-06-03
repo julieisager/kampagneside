@@ -126,7 +126,7 @@ body{
 
 .line2{
 	@media #{$mobil}{
-		border: none;
+		border-bottom: 1px solid gray;
 	}
 	@media #{$tablet}{
 		border-bottom: 1px solid gray;

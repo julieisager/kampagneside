@@ -131,16 +131,18 @@
     </div>
 </div>
 
-<div class="container-fluid bg-white" id="sponsor"
+<div class="container-fluid bg-white p-3" id="sponsor"
     <div class="row">
-        <div class="col-12 col-md-3 d-flex text-center" style="width: 50px; height: 50px">
-            <img src="image/Sponsor/velliv-foreningen-logotype-primary-orange-cmyk-removebg-preview.png" alt="velliv">
+        <div class="col-12 col-md-3 d-flex" style="width: 50px; height: 50px">
+
+            <img src="image/Sponsor/velliv-foreningen.png" alt="velliv">
 
             <img src="image/Sponsor/k.juby.png" alt="kjuby">
 
             <img src="image/Sponsor/velux_fonden.png" alt="velux">
 
             <img src="image/Sponsor/Ellegaard.png" alt="ellagaard">
+
         </div>
     </div>
 </div>
