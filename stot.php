@@ -129,16 +129,16 @@
 
 <div class="container-fluid bg-white" id="sponsor"
     <div class="row">
-        <div class="col-12 col-md-3">
+        <div class="col-12 col-md-3 card">
             <img src="image/Sponsor/velliv-foreningen-logotype-primary-orange-cmyk-removebg-preview.png" alt="velliv">
         </div>
-        <div class="col-12 col-md-3">
+        <div class="col-12 col-md-3 card">
             <img src="image/Sponsor/k.juby.png" alt="kjuby">
         </div>
-        <div class="col-12 col-md-3">
+        <div class="col-12 col-md-3 card">
             <img src="image/Sponsor/velux_fonden.png" alt="velux">
         </div>
-        <div class="col-12 col-md-3">
+        <div class="col-12 col-md-3 card">
             <img src="image/Sponsor/Ellegaard.png" alt="ellagaard">
         </div>
     </div>
