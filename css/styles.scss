@@ -141,17 +141,18 @@ body{
 
 }
 
-.card-img{
+
+
+#copyright{
 	@media #{$mobil}{
-		width: 50px;
+		font-size: 10px;
 	}
 	@media #{$tablet}{
-		width: 200px;
+		font-size: 14px;
 	}
 	@media #{$computer}{
-		width: 200px;
+		font-size: 25px;
 	}
-
 }
 
 
