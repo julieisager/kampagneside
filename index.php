@@ -64,7 +64,7 @@
 
 
 				<li class="nav-item mx-3" id="stot">
-					<a class="nav-link active" aria-current="page" href="#">Støt</a>
+					<a class="nav-link active" aria-current="page" href="stot.php">Støt</a>
                 </li>
 
 

@@ -17,10 +17,10 @@
 
 <body>
 
-<div class="container-fluid bg-gron">
+<div class="container-fluid bg-gron p-3">
     <div class="row">
-        <div class="col">
-            image
+        <div class="col d-flex justify-content-center">
+            <img src="..." alt="flag">
         </div>
     </div>
 </div>
@@ -29,7 +29,7 @@
 <div class="container-fluid bg-white p-3">
     <div class="row">
         <div class="col text-center">
-            Vi mangler Veteranhave venner! Er det dig?
+            <h4>Vi mangler Veteranhave venner! Er det dig?</h4>
         </div>
     </div>
 </div>
@@ -40,21 +40,21 @@
         <div class="col text-center">
 
             Du kan hjælpe ved arrangementer og aktiviteter i haven
-            <br>
-            Vær med til at købe ind, stå for salg af kaffe og kage og ellers hjælpe, hvor der må være brugfor det.
-            <br>
+            <br><br>
+            Vær med til at købe ind, stå for salg af kaffe og kage og ellers hjælpe, hvor der må være brug for det.
+            <br><br>
             Hjælpe med at uddele vores julehjælp til veteranfamilier
-            <br>
+            <br><br>
             Pakke og bringe ud til de glade modtagere.
-            <br>
+            <br><br>
             Vise besøgende rundt i haven
-            <br>
+            <br><br>
             Svare på spørgsmål og fortælle om VeteranHaven som have og forening.
-            <br>
+            <br><br>
             Deltage i arrangementer, der skaber opmærksomhed om VeteranHaven
-            <br>
+            <br><br>
             Og vigtigst af alt.
-            <br>
+            <br><br>
             Bidrage med dit humør og gåpåmod.
 
         </div>
@@ -71,6 +71,7 @@
 
 <div class="container-fluid bg-light d-flex justify-content-center">
     <div class="row">
+
         <div class="col-12 col-md-6">
 
             <div class="card mb-3" style="max-width: 540px;">
@@ -78,7 +79,7 @@
 
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title">Bliv en VeteranHave ven</h5>
+                            <h5 class="card-title line2">Bliv en VeteranHave ven</h5>
                             <p class="card-text">Som ven hjælper du stedet ved at deltage i fælleskabet og bidrager til hverdagens opgaver.</p>
                             <a href="#" class="">Læs mere</a>
                         </div>
@@ -100,7 +101,7 @@
 
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-title">Støt vores projekter</h5>
+                            <h5 class="card-title line2">Støt vores projekter</h5>
                             <p class="card-text">Stedet finansiseres af frivillige midler. Dette kan ske gennem legater, fonde eller bidrag fra private og virksomheder.</p>
                             <a href="#" class="">Læs mere</a>
                         </div>
@@ -129,7 +130,7 @@
 
 <div class="container-fluid bg-white" id="sponsor"
     <div class="row">
-        <div class="col-12 col-md-3" style="max-width: 40px;">
+        <div class="col-12 col-md-3">
             <img src="image/Sponsor/velliv-foreningen-logotype-primary-orange-cmyk-removebg-preview.png" alt="velliv">
         </div>
         <div class="col-12 col-md-3">
@@ -143,7 +144,6 @@
         </div>
     </div>
 </div>
-
 
 
 
