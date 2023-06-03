@@ -133,10 +133,24 @@ body{
 	}
 	@media #{$computer}{
 		border-bottom: 1px solid gray;
+
 	}
 
 }
 
+
+
+#sponsor{
+	@media #{$mobil}{
+		height: 70px;
+	}
+	@media #{$tablet}{
+		height: 80px;
+	}
+	@media #{$computer}{
+		height: 90px;
+	}
+}
 
 
 

@@ -64,9 +64,9 @@
     </div>
 </div>
 
-<div class="container-fluid bg-light">
+<div class="container-fluid bg-light d-flex justify-content-center">
     <div class="row">
-        <div class="col text-center line2 mb-3 mt-3">
+        <div class="col-12 text-center line2 mb-3 mt-3">
             <h4>Sådan kan du støtte os</h4>
         </div>
     </div>
@@ -131,21 +131,44 @@
     </div>
 </div>
 
-<div class="container-fluid bg-white p-3" id="sponsor"
+<div class="container-fluid bg-white mb-3 mt-3 d-flex justify-content-center">
     <div class="row">
-        <div class="col-12 col-md-3 d-flex" style="width: 50px; height: 50px">
+            <img src="image/Sponsor/velliv-foreningen.png" alt="velliv" class="col-12 col-md-6 col-lg-3 mx-3" style="width: auto; height: 50px">
 
-            <img src="image/Sponsor/velliv-foreningen.png" alt="velliv">
+            <img src="image/Sponsor/k.juby.png" alt="kjuby" class="col-12 col-md-6 col-lg-3 mx-3" style="width: auto; height: 50px">
 
-            <img src="image/Sponsor/k.juby.png" alt="kjuby">
+            <img src="image/Sponsor/velux_fonden.png" alt="velux" class="col-12 col-md-6 col-lg-3 mx-3" style="width: auto; height: 50px">
 
-            <img src="image/Sponsor/velux_fonden.png" alt="velux">
+            <img src="image/Sponsor/Ellegaard.png" alt="ellagaard" class="col-12 col-md-6 col-lg-3 mx-3" style="width: auto; height: 50px">
 
-            <img src="image/Sponsor/Ellegaard.png" alt="ellagaard">
-
-        </div>
     </div>
 </div>
+
+
+<div class="container-fluid bg-white mb-3 mt-3 d-flex justify-content-center" id="sponsor">
+<div class="row">
+    <div class="col" style="width: auto; height: 50px">
+    <img src="image/Sponsor/velliv-foreningen.png" alt="velliv">
+    </div>
+
+    <div class="col" style="width: auto; height: 50px;">
+    <img src="image/Sponsor/k.juby.png" alt="kjuby">
+    </div>
+
+    <div class="col" style="width: auto; height: 50px">
+    <img src="image/Sponsor/velux_fonden.png" alt="velux">
+    </div>
+
+    <div class="col" style="width: auto; height: 50px">
+    <img src="image/Sponsor/Ellegaard.png" alt="ellagaard">
+    </div>
+
+
+</div>
+</div>
+
+
+
 
 
 <?php include "includes/footer.php";?>
