@@ -133,41 +133,16 @@
 
 <div class="container-fluid bg-white mb-3 mt-3 d-flex justify-content-center">
     <div class="row">
-            <img src="image/Sponsor/velliv-foreningen.png" alt="velliv" class="col-12 col-md-6 col-lg-3 mx-3" style="width: auto; height: 50px">
+            <img src="image/Sponsor/velliv-foreningen.png" alt="velliv" class="col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
 
-            <img src="image/Sponsor/k.juby.png" alt="kjuby" class="col-12 col-md-6 col-lg-3 mx-3" style="width: auto; height: 50px">
+            <img src="image/Sponsor/k.juby.png" alt="kjuby" class="col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
 
-            <img src="image/Sponsor/velux_fonden.png" alt="velux" class="col-12 col-md-6 col-lg-3 mx-3" style="width: auto; height: 50px">
+            <img src="image/Sponsor/velux_fonden.png" alt="velux" class="col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
 
-            <img src="image/Sponsor/Ellegaard.png" alt="ellagaard" class="col-12 col-md-6 col-lg-3 mx-3" style="width: auto; height: 50px">
+            <img src="image/Sponsor/Ellegaard.png" alt="ellagaard" class="col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
 
     </div>
 </div>
-
-
-<div class="container-fluid bg-white mb-3 mt-3 d-flex justify-content-center" id="sponsor">
-<div class="row">
-    <div class="col" style="width: auto; height: 50px">
-    <img src="image/Sponsor/velliv-foreningen.png" alt="velliv">
-    </div>
-
-    <div class="col" style="width: auto; height: 50px;">
-    <img src="image/Sponsor/k.juby.png" alt="kjuby">
-    </div>
-
-    <div class="col" style="width: auto; height: 50px">
-    <img src="image/Sponsor/velux_fonden.png" alt="velux">
-    </div>
-
-    <div class="col" style="width: auto; height: 50px">
-    <img src="image/Sponsor/Ellegaard.png" alt="ellagaard">
-    </div>
-
-
-</div>
-</div>
-
-
 
 
 
