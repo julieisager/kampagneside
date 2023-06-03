@@ -110,7 +110,7 @@
 </div>
 
 <div class="container-fluid bg-white">
-    <div class="row">
+    <div class="row ratio-16x9">
         <div class="col-12 col-md-3">
             <img src="image/Sponsor/velliv-foreningen-logotype-primary-orange-cmyk-removebg-preview.png" alt="velliv">
         </div>
