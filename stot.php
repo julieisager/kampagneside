@@ -26,7 +26,7 @@
 </div>
 
 
-<div class="container-fluid bg-white">
+<div class="container-fluid bg-white p-3">
     <div class="row">
         <div class="col text-center">
             Vi mangler Veteranhave venner! Er det dig?
@@ -35,7 +35,7 @@
 </div>
 
 
-<div class="container-fluid bg-baggrund">
+<div class="container-fluid bg-baggrund p-3">
     <div class="row">
         <div class="col text-center">
 
@@ -63,7 +63,7 @@
 
 <div class="container-fluid bg-light">
     <div class="row">
-        <div class="col text-center line2">
+        <div class="col text-center line2 mb-3 mt-3">
             Sådan kan du støtte os
         </div>
     </div>
