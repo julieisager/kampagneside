@@ -17,7 +17,7 @@
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end">
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link text-black mx-3" href="#" id="navbarDropdownHvemErVi" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link text-black mx-3" href="Hvem.php" id="navbarDropdownHvemErVi" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Hvem er vi
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
