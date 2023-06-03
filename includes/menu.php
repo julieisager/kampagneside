@@ -6,7 +6,7 @@
 
 
 
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="index.php">
             <img src="image/veteranhaven_logo_farver.png" alt="logo" id="logo">
         </a>
         <button style="border: none" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
