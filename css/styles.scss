@@ -23,8 +23,8 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 
 $mobil: "screen and (min-width: 0)";
-$nav: "screen and (min-width: 576)";
 $tablet: "screen and (min-width: 768px)";
+$nav: "screen and (min-width: 992)";
 $computer: "screen and (min-width: 1200px)";
 
 
