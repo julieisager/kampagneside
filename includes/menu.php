@@ -28,22 +28,7 @@
 
 
                 <li class="nav-item mx-3">
-                    <a class="nav-link active" aria-current="page" href="stot.php">
-                        <span class="bogmaerke"
-                        style=".bogmaerke {
-  display: inline-block;
-  width: 0;
-  height: 0;
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-bottom: 10px solid #000;
-  vertical-align: middle;
-  margin-right: 5px;
-}
-"
-                        ></span>
-                        Støt
-                    </a>
+                    <a class="nav-link active" aria-current="page" href="stot.php">Støt</a>
                 </li>
 
 
