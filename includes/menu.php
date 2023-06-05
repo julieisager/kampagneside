@@ -4,8 +4,6 @@
     <div class="container-fluid">
 
 
-
-
         <a class="navbar-brand" href="index.php">
             <img src="image/veteranhaven_logo_farver.png" alt="logo" id="logo">
         </a>
@@ -27,7 +25,7 @@
                 </li>
 
 
-                <li class="nav-item mx-3 bg-lilla" id="firkant">
+                <li class="nav-item mx-3" id="firkant">
                     <a  class="nav-link active" aria-current="page" href="stot.php">Støt</a>
                 </li>
 
