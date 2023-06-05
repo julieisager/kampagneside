@@ -27,7 +27,7 @@
 <div class="container-fluid bg-gron p-3">
     <div class="row">
         <div class="col-5 col-md-6 d-flex align-items-center" id="copyright">
-            Copyright 2023 VeteranHaven
+            <p class="card-text"><small class="text-muted">Copyright 2023 VeteranHaven</small></p>
         </div>
         <div class="col-3 col-md-2 text-end d-flex align-items-center" id="find">
             Find os her
