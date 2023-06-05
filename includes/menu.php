@@ -39,7 +39,7 @@
 
             </ul>
 
-            <form class="d-flex align-items-center justify-content-center">
+            <form class="d-flex align-items-center">
                 <div class="row">
                     <div class="col">
                         <div class="collapse multi-collapse mx-2" id="multiCollapseExample1">
@@ -48,7 +48,7 @@
                     </div>
                 </div>
                 <p>
-                    <a class="btn" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
+                    <a class="btn d-flex align-items-center" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
                         <span><i class="fa-solid fa-magnifying-glass"></i></span>
                     </a>
                 </p>
