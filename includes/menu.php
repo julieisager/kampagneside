@@ -2,7 +2,7 @@
 
 
 
-<nav class="navbar navbar-expand-lg navbar-light bg-white kasse2">
+<nav class="navbar navbar-expand-lg navbar-light bg-white">
     <div class="container-fluid">
 
 
@@ -27,7 +27,7 @@
                 </li>
 
 
-                <li class="nav-item mx-3 kasse" id="firkant">
+                <li class="nav-item mx-3" id="firkant">
                     <a  class="nav-link active" aria-current="page" href="stot.php">Støt</a>
                 </li>
 
