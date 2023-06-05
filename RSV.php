@@ -33,7 +33,7 @@
     <div class="row">
         <div class="col text-center mb-3 mt-3">
 
-            <div class="firkant"> hej</div>
+            <div id="firkant"> hej</div>
 
 
         </div>
