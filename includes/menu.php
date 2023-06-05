@@ -1,4 +1,25 @@
 
+<script>
+    window.onload = function() {
+        var navItems = document.querySelectorAll('.nav-item');
+        var activeNavItem = document.querySelector('.nav-item.stot');
+        var pyramid = document.querySelector('nav:after');
+
+        function positionPyramid() {
+            var activeNavItemRect = activeNavItem.getBoundingClientRect();
+            var navRect = activeNavItem.parentElement.getBoundingClientRect();
+            var offsetX = activeNavItemRect.left - navRect.left + (activeNavItemRect.width / 2);
+
+            pyramid.style.left = offsetX + 'px';
+        }
+
+        positionPyramid();
+
+        window.addEventListener('resize', positionPyramid);
+    };
+</script>
+
+
 
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
     <div class="container-fluid">

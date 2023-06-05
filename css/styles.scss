@@ -175,20 +175,19 @@ body{
 
 nav {
 	position: relative;
-
 }
 
 nav:after {
 	content: "";
 	position: absolute;
 	bottom: -10px;
-	left: 50%;
-	transform: translateX(-50%);
+	left: 0;
+	right: 0;
+	margin: 0 auto;
 	display: block;
 	width: 0;
 	height: 0;
 	border-left: 25px solid transparent;
 	border-right: 25px solid transparent;
 	border-top: 25px solid red;
-	margin: 0 auto;
 }
