@@ -180,16 +180,9 @@ nav {
 	position: relative;
 }
 
-.nav-item {
-	position: relative;
-	display: inline-block;
-}
 
-.nav-link {
-	position: relative;
-}
-
-.nav-link.stot {
+.stot {
+	position: absolute;
 	border: solid #907CB0;
 }
 
