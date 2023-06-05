@@ -155,23 +155,6 @@ body{
 
 
 
-#firkant {
-
-	width: 50px;
-	height: 10px;
-	background-color: blue;
-
-	&:after {
-		content: "";
-		display: block;
-		width: 0;
-		height: 0;
-		border-left: 25px solid transparent;
-		border-right: 25px solid transparent;
-		border-top: 25px solid red;
-		margin: 0 auto;
-	}
-}
 
 #firkant {
 	position: relative;
