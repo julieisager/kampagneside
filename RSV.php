@@ -33,8 +33,6 @@
     <div class="row">
         <div class="col text-center mb-3 mt-3">
 
-            <div class="bogmaerke"></div>
-
 
         </div>
     </div>

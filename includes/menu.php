@@ -28,7 +28,10 @@
 
 
                 <li class="nav-item mx-3">
-                    <a class="nav-link active" aria-current="page" href="stot.php">Støt</a>
+                    <a class="nav-link active" aria-current="page" href="stot.php">
+                        <span class="bogmaerke"></span>
+                        Støt
+                    </a>
                 </li>
 
 
