@@ -27,7 +27,7 @@
                 </li>
 
 
-                <li class="nav-item mx-3" id="firkant">
+                <li class="nav-item mx-3 stot" id="firkant">
                     <a  class="nav-link active" aria-current="page" href="stot.php">Støt</a>
                 </li>
 
