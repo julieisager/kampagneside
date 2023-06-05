@@ -11,8 +11,8 @@
 
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/4c1c4ae382.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://use.typekit.net/sce0gkv.css">
-    
+
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 

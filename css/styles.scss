@@ -27,7 +27,6 @@ $tablet: "screen and (min-width: 768px)";
 $computer: "screen and (min-width: 1200px)";
 
 
-
 // menu/header og footer start
 .line{
 	@media #{$mobil}{
@@ -121,9 +120,7 @@ body{
 	@media #{$computer}{
 		font-size: large;
 	}
-	font-family: "verdana-pro", sans-serif;
-	font-weight: 400;
-	font-style: normal;
+
 
 }
 
@@ -156,5 +153,12 @@ body{
 	}
 }
 
+.bogmaerke {
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 40px solid #000;
+}
 
 
