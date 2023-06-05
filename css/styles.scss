@@ -176,14 +176,23 @@ body{
 }
 
 
-nav {
+
+
+#navbar {
 	position: relative;
-	border: #907CB0;
 }
 
+#navbar .nav-item {
+	position: relative;
+	display: inline-block;
+}
 
-.stot {
-	position: absolute;
-	border: #907CB0;
+#navbar .nav-link {
+	position: relative;
+
+}
+
+#navbar .nav-link.stot {
+	border: solid #907CB0;
 }
 
