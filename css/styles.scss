@@ -24,7 +24,7 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 
 $mobil: "screen and (min-width: 0)";
 $tablet: "screen and (min-width: 768px)";
-$nav: "screen and (min-width: 992)";
+$nav: "screen and (min-width: 992px)";
 $computer: "screen and (min-width: 1200px)";
 
 
@@ -155,7 +155,7 @@ body{
 }
 
 
-
+@media #{$nav}{
 #firkant {
 	position: relative;
 
@@ -176,4 +176,4 @@ body{
 	border-top: 25px solid #907CB0;
 
 }
-
+}
