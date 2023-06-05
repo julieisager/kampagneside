@@ -178,21 +178,14 @@ body{
 
 
 
-#navbar {
+.navbar {
 	position: relative;
 }
 
-#navbar .nav-item {
-	position: relative;
-	display: inline-block;
-}
-
-#navbar .nav-link {
-	position: relative;
-
-}
-
-#navbar .nav-link.stot {
-	border: solid #907CB0;
+.stot-lilla {
+	background: linear-gradient(to bottom, #8800ff, #5500aa);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 
