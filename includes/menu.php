@@ -1,6 +1,6 @@
 
 
-<nav class="navbar navbar-expand-lg navbar-light bg-white" id="firkant2">
+<nav class="navbar navbar-expand-lg navbar-light bg-white">
     <div class="container-fluid">
 
 
@@ -27,7 +27,7 @@
                 </li>
 
 
-                <li class="nav-item mx-3" id="firkant">
+                <li class="nav-item mx-3 bg-lilla" id="firkant">
                     <a  class="nav-link active" aria-current="page" href="stot.php">Støt</a>
                 </li>
 
