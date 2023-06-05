@@ -173,11 +173,11 @@ body{
 	}
 }
 
-nav {
+#firkant {
 	position: relative;
 }
 
-nav:after {
+#firkant:after {
 	content: "";
 	position: absolute;
 	bottom: -10px;
