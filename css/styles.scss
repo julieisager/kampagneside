@@ -172,3 +172,21 @@ body{
 		margin: 0 auto;
 	}
 }
+
+nav {
+	position: relative;
+}
+
+nav:after {
+	content: "";
+	position: absolute;
+	bottom: -10px;
+	left: 50%;
+	transform: translateX(-50%);
+	display: block;
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-bottom: 10px solid #000;
+}
