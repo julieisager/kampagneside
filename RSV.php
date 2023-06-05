@@ -30,7 +30,7 @@
 </div>
 
 <div class="container-fluid bg-white">
-    <div class="row">
+    <div class="row" id="firkant2">
         <div class="col text-center mb-3 mt-3">
 
             <div id="firkant"> hej</div>
