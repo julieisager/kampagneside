@@ -155,7 +155,7 @@ body{
 }
 
 
-
+@media #{$nav}{
 #firkant {
 	position: relative;
 }
@@ -174,5 +174,5 @@ body{
 	border-right: 25px solid transparent;
 	border-top: 25px solid #907CB0;
 }
-
+}
 
