@@ -27,8 +27,8 @@
 
 
                 <li class="nav-item mx-3 bg-lilla" id="firkant">
-                    <div class="bg-lilla position-absolute top-0 bottom-0 start-0 end-0"></div>
                     <a  class="nav-link active" aria-current="page" href="stot.php" id="lillafarve">Støt</a>
+                    <div class="bg-lilla position-absolute top-0 bottom-0 start-0 end-0"></div>
                 </li>
 
 
