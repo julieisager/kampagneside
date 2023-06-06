@@ -84,7 +84,7 @@
                 <div class="row g-0">
 
                     <div class="col-md-8">
-                        <div class="card-body">
+                        <div class="card-body hoverfarve">
                             <h5 class="card-title line2">Bliv en VeteranHave ven</h5>
                             <p class="card-text">Som ven hjælper du stedet ved at deltage i fælleskabet og bidrager til hverdagens opgaver.</p>
                             <a href="#" class="">Læs mere</a>
@@ -106,7 +106,7 @@
                 <div class="row g-0">
 
                     <div class="col-md-8">
-                        <div class="card-body">
+                        <div class="card-body hoverfarve">
                             <h5 class="card-title line2">Støt vores projekter</h5>
                             <p class="card-text">Stedet finansiseres af frivillige midler. Dette kan ske gennem legater, fonde eller bidrag fra private og virksomheder.</p>
                             <a href="#" class="">Læs mere</a>
