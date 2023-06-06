@@ -222,11 +222,11 @@ body{
 		justify-content: center;
 	}
 	@media #{$tablet}{
-		max-height: 200px;
+		max-height: 210px;
 		width: auto;
 	}
 	@media #{$computer}{
-		min-height: 150px;
+		min-height: 230px;
 		width: auto;
 	}
 }
