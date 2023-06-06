@@ -27,14 +27,15 @@
 
 
 	<div class="row mt-5">
-		<div class="col-5">
+		<div class="col-12 col-md-5 mb-3 d-flex align-items-center">
 			<div class="card">
-				<div class="card-body d-flex align-items-center">
+				<div class="card-body">
 					This is some text within a card body.
+                    This is some text within a card body.
 				</div>
 			</div>
 		</div>
-		<div class="col-7">
+		<div class="col-12 col-md-7">
 			<div class="ratio ratio-16x9">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/HeAW3uTwXYg" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</div>
