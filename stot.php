@@ -78,7 +78,7 @@
 <div class="container-fluid bg-light d-flex justify-content-center">
     <div class="row">
 
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-6 d-flex justify-content-center">
             <div class="card mb-3" style="max-width: 540px;" id="hoverfarve">
                 <div class="row g-0">
 
@@ -100,7 +100,7 @@
 
         </div>
 
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-6 d-flex justify-content-center">
 
             <div class="card mb-3" style="max-width: 540px;" id="hoverfarve2">
                 <div class="row g-0">
