@@ -45,7 +45,7 @@
 
 <div class="container-fluid bg-white p-3" >
 	<div class="row">
-		<div class="col-12 col-md-5">
+		<div class="col-12 col-md-5 mb-3">
 			<div class="card">
 				<div class="ratio ratio-16x9">
 					<img src="image/veteranhaven/veteranhaveforside.png" alt="VHforside">
@@ -56,6 +56,7 @@
 			<div class="card ">
 				<div class="card-body ">
 					This is some text within a card body.
+                    This is some text within a card body.
 				</div>
 			</div>
 		</div>
