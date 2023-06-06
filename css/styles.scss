@@ -214,16 +214,3 @@ body{
 
 }
 
-.cardbillede{
-	@media #{$mobil}{
-		height: 300px;
-		display: flex;
-		justify-content: center;
-	}
-	@media #{$tablet}{
-		height: 150px;
-	}
-	@media #{$computer}{
-		height: 150px;
-	}
-}
