@@ -93,7 +93,7 @@
 
 
                     <div class="col-md-4">
-                        <img src="image/veteranhaven/vandVH.png" class="img-fluid rounded-start" alt="vandVH">
+                        <img src="image/veteranhaven/vandVH.png" class="cardbillede img-fluid rounded-start" alt="vandVH">
                     </div>
 
                 </div>
@@ -115,7 +115,7 @@
                     </div>
 
                     <div class="col-md-4">
-                        <img src="image/veteranhaven/veteranhaven%20oppefra.png" class="img-fluid rounded-start" alt="VHoppefra">
+                        <img src="image/veteranhaven/veteranhaven%20oppefra.png" class="cardbillede img-fluid rounded-start" alt="VHoppefra">
                     </div>
 
                 </div>
