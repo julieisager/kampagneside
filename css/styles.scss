@@ -219,9 +219,7 @@ body{
 		max-height: 300px;
 		width: auto;
 		display: flex;
-		justify-content: center;
-		justify-items: center;
-		align-items: center;
+
 	}
 	@media #{$tablet}{
 		max-height: 210px;
