@@ -216,7 +216,7 @@ body{
 
 .cardbillede{
 	@media #{$mobil}{
-		max-width-height: 200px;
+		max-height: 200px;
 		width: auto;
 		display: flex;
 		justify-content: center;
