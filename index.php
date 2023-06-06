@@ -29,7 +29,7 @@
 	<div class="row mt-5">
 		<div class="col-5">
 			<div class="card">
-				<div class="card-body">
+				<div class="card-body d-flex align-items-center">
 					This is some text within a card body.
 				</div>
 			</div>
