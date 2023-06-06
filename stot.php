@@ -79,7 +79,7 @@
     <div class="row">
 
         <div class="col-12 col-md-6">
-            <div class="card hoverfarve mb-3" style="max-width: 540px;">
+            <div class="card mb-3" style="max-width: 540px;" id="hoverfarve">
                 <div class="row g-0">
 
                     <div class="col-md-8">
