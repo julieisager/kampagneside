@@ -214,3 +214,19 @@ body{
 
 }
 
+.cardbillede{
+	@media #{$mobil}{
+		min-height: 300px;
+		width: auto;
+		display: flex;
+		justify-content: center;
+	}
+	@media #{$tablet}{
+		min-height: 150px;
+		width: auto;
+	}
+	@media #{$computer}{
+		min-height: 150px;
+		width: auto;
+	}
+}
