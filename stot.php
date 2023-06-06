@@ -79,6 +79,7 @@
     <div class="row">
 
         <div class="col-12 col-md-6 d-flex justify-content-center">
+            <button class="btn text-start" id="hoverfarve">
             <div class="card mb-3" style="max-width: 540px;">
                 <div class="row g-0">
 
@@ -97,7 +98,7 @@
 
                 </div>
             </div>
-
+            </button>
         </div>
 
         <div class="col-12 col-md-6 d-flex justify-content-center">
