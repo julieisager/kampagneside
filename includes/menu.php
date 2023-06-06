@@ -25,11 +25,10 @@
                     <a class="nav-link active" aria-current="page" href="RSV.php">RSV</a>
                 </li>
 
-                <li class="nav-item mx-3 bg-lilla" >
-                <li class="nav-item mx-3 " id="firkant">
+                <li class="nav-item mx-3 bg-lilla" id="firkant">
                     <a  class="nav-link active" aria-current="page" href="stot.php" id="lillafarve">Støt</a>
                 </li>
-                </li>
+
 
                 <li class="nav-item mx-3">
                     <a class="nav-link active" aria-current="page" href="FindOs.php">Kontakt</a>
