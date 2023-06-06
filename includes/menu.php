@@ -2,7 +2,7 @@
 
 
 
-<nav class="navbar navbar-expand-lg navbar-light bg-white">
+<nav class="navbar navbar-expand-lg navbar-light bg-white" id="stotfarve">
     <div class="container-fluid">
 
         <a class="navbar-brand" href="index.php">
@@ -26,7 +26,7 @@
                 </li>
 
 
-                <li class="nav-item mx-3 stot-lilla" id="firkant">
+                <li class="nav-item mx-3 stotlilla bg-lilla" id="firkant">
                     <a  class="nav-link active " aria-current="page" href="stot.php">Støt</a>
                 </li>
 
