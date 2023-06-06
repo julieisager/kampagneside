@@ -80,8 +80,8 @@
 
         <div class="col-12 col-md-6 d-flex justify-content-center">
 
-            <div class="card mb-3" style="max-width: 540px;">
-                <button class="btn text-start" id="hoverfarve">
+
+                <button class="btn text-start card mb-3" id="hoverfarve" style="max-width: 540px;">
                 <div class="row g-0">
 
                     <div class="col-md-8">
@@ -99,7 +99,7 @@
 
                 </button>
                 </div>
-            </div>
+
 
         </div>
 
