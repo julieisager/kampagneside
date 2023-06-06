@@ -221,6 +221,7 @@ body{
 		display: flex;
 		justify-content: center;
 		justify-items: center;
+		align-items: center;
 	}
 	@media #{$tablet}{
 		max-height: 210px;
