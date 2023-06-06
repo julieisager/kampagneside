@@ -134,7 +134,7 @@
     </div>
 </div>
 
-<div class="container-fluid bg-white mb-3 mt-3 d-flex justify-content-center">
+<div class="container-fluid bg-white mb-5 mt-3 d-flex justify-content-center">
     <div class="row">
             <img src="image/Sponsor/velliv-foreningen.png" alt="velliv" class="col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
 
