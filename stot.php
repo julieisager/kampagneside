@@ -78,11 +78,12 @@
 <div class="container-fluid bg-light d-flex justify-content-center">
     <div class="row">
 
-        <div class="col-12 col-md-6 hoverfarve">
+        <div class="col-12 col-md-6">
 
             <div class="card mb-3" style="max-width: 540px;">
                 <div class="row g-0">
 
+                    <a class="hoverfarve">
                     <div class="col-md-8">
                         <div class="card-body">
                             <h5 class="card-title line2">Bliv en VeteranHave ven</h5>
@@ -90,6 +91,7 @@
                             <a href="#" class="">Læs mere</a>
                         </div>
                     </div>
+                    </a>
 
                     <div class="col-md-4">
                         <img src="..." class="img-fluid rounded-start" alt="...">
