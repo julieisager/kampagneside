@@ -79,7 +79,7 @@
     <div class="row">
 
         <div class="col-12 col-md-6 d-flex justify-content-center">
-            <div class="card mb-3" style="max-width: 540px;" id="hoverfarve">
+            <div class="card mb-3" style="max-width: 540px;">
                 <div class="row g-0">
 
                     <div class="col-md-8">
@@ -102,7 +102,7 @@
 
         <div class="col-12 col-md-6 d-flex justify-content-center">
 
-            <div class="card mb-3" style="max-width: 540px;" id="hoverfarve2">
+                <div class="card mb-3" style="max-width: 540px;">
                 <div class="row g-0">
 
                     <div class="col-md-8">
@@ -119,7 +119,6 @@
 
                 </div>
             </div>
-
         </div>
 
     </div>
