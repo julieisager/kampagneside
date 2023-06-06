@@ -26,7 +26,7 @@
                 </li>
 
 
-                <li class="nav-item mx-3 stotlilla bg-lilla" id="firkant">
+                <li class="nav-item mx-3 stotlilla" id="firkant">
                     <a  class="nav-link active " aria-current="page" href="stot.php">Støt</a>
                 </li>
 
