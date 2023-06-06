@@ -206,7 +206,7 @@ body{
 }
 
 .bg-lilla {
-	position: absolute;
+	position: relative;
 	background-color: #907CB0;
 	content: "";
 
@@ -214,7 +214,7 @@ body{
 	left: 0;
 	right: 0;
 	margin: 0 auto;
-
+	display: block;
 	width: 0;
 	height: 0;
 
