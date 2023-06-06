@@ -23,7 +23,7 @@
 <div class="container-fluid bg-baggrund p-3">
     <div class="row">
         <div class="col-12 col-md-6">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="image/veteranhaven/Rene.png" class="card-img-top" alt="rene">
         </div>
         <div class="col-12 col-md-6 text-center">
             <h3>Hvem er VeteranHaven</h3>
