@@ -25,9 +25,9 @@
                     <a class="nav-link active" aria-current="page" href="RSV.php">RSV</a>
                 </li>
 
-
+                <li id="stotlilla"></li>
                 <li class="nav-item mx-3" id="firkant">
-                    <a  class="nav-link active stotlilla" aria-current="page" href="stot.php">Støt</a>
+                    <a  class="nav-link active" aria-current="page" href="stot.php">Støt</a>
                 </li>
 
 
