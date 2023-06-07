@@ -1,5 +1,5 @@
 
-<div class="container-fluid bg-baggrund p-3">
+<div class="container-fluid bg-baggrund p-4">
     <div class="row">
         <div class="col-12 col-md-4 line mb-3 text-center">
             <h5>Vores oplysninger</h5>
@@ -12,11 +12,18 @@
             CVR-nr: 34746567 <br>
         </div>
 
-        <div class="col-12 col-md-4 line mb-3 text-center">
+        <div class="col-12 col-md-5 line mb-3 text-center ">
             <h5>Genveje</h5>
+            <p class="">
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="" class="btn">Søgning</a></div>
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="RSV.php" class="btn">Socialøkonomisk Virksomhed</a></div>
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="stot.php" class="btn">Støt os</a></div>
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="Hvem.php" class="btn">Vores Projekter</a></div>
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="https://www.veteranhaven.dk/" class="btn">VeteranHaven.dk</a></div>
+            </p>
         </div>
 
-        <div class="col-12 col-md-4 mb-3 mt-4 text-center">
+        <div class="col-12 col-md-3 mb-3 mt-4 text-center">
             <img src="image/RSV.png" alt="RSV" id="RSV">
         </div>
     </div>
