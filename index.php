@@ -22,11 +22,11 @@
 <?php include "includes/menu.php";?>
 
 
-<div class="container-fluid p-3 bg-baggrund" id="halvcirkel2">
+<div class="container-fluid p-3 bg-baggrund">
 
 	<div class="row mt-4">
-		<div class="col-12 col-md-5 mb-3 bg-gron d-flex align-items-center justify-content-center" id="halvcirkel">
-			<div class="text-center text-white mt-3 mb-3">
+		<div class="col-12 col-md-5 mb-3 bg-gron d-flex align-items-center justify-content-center" id="halvcirkel2">
+			<div class="text-center text-white mt-3 mb-3" id="halvcirkel">
 				<h5>Lorem ipsum dolor sit amet</h5>
                 <br>
                 VeteranHaven ligger i Slagelse kommune. De er et tilbud til folk med besvær i hverdagen, veteraner og alt derimellem.
