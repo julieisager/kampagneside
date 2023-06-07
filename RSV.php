@@ -18,6 +18,9 @@
 
 <body>
 
+<div id="top"></div>
+<a href="#top" id="pil"><i style="color: #907CB0;" class="fa-solid fa-circle-arrow-up"></i></a>
+
 <?php include "includes/menu.php";?>
 
 
