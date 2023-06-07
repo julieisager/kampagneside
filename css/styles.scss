@@ -231,3 +231,19 @@ body{
 		width: auto;
 	}
 }
+
+#halvcirkel {
+	position: relative;
+}
+
+#halvcirkel::after {
+	content: "";
+	position: absolute;
+	top: 50%;
+	right: 0;
+	transform: translateY(-50%);
+	width: 100px; /* Juster størrelsen efter behov */
+	height: 100px; /* Juster størrelsen efter behov */
+	background-color: #000; /* Juster baggrundsfarven efter behov */
+	border-radius: 50%;
+}
