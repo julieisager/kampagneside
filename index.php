@@ -18,11 +18,13 @@
 </head>
 
 <body>
-
+<div id="top"></div>
 <?php include "includes/menu.php";?>
 
-<div class="container-fluid bg-baggrund p-3"></div>
 
+<a href="#top" id="pil"><i class="fa-solid fa-arrow-up"></i></a>
+
+<div class="container-fluid bg-baggrund p-3"></div>
 
 <div class="container-fluid bg-baggrund" >
 
@@ -73,7 +75,6 @@
 		</div>
 	</div>
 </div>
-
 
 
 
