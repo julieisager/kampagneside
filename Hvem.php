@@ -71,7 +71,7 @@
 
 <div class="container-fluid bg-gron">
     <div class="row">
-        <div class="col text-center mb-3 mt-3">
+        <div class="col text-center mb-3 mt-5">
             <h4>Vil du læse mere om VeteranHaven?</h4>
         </div>
     </div>
@@ -79,9 +79,12 @@
 
 <div class="container-fluid bg-gron">
     <div class="row">
-        <div class="col text-center mb-3 mt-3">
-
-            
+        <div class="col-12 text-center mb-3">
+            Hvis du vil vide mere om Veteranhaven og deres initativer, så besøg dem på deres
+            <a href="https://www.veteranhaven.dk/">hjemmeside</a>.
+        </div>
+        <div class="col-12 text-center mb-3 mt-3">
+            <iframe src="https://www.veteranhaven.dk/" width="900" height="500"></iframe>
         </div>
     </div>
 </div>
