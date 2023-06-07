@@ -26,7 +26,7 @@
 
 	<div class="row mt-4">
 		<div class="col-12 col-md-5 mb-3 bg-gron d-flex align-items-center justify-content-center" id="halvcirkel">
-			<div class="text-center text-white">
+			<div class="text-center text-white mt-3 mb-3">
 				<h5>Lorem ipsum dolor sit amet</h5>
                 <br>
                 VeteranHaven ligger i Slagelse kommune. De er et tilbud til folk med besvær i hverdagen, veteraner og alt derimellem.
@@ -34,7 +34,7 @@
                 Her på siden vil du finde alt nødvendig information omkring haven. Men inden du når så langt, har vi her en video som fortæller meget mere.
 			</div>
 		</div>
-		<div class="col-12 col-md-7 bg-baggrund">
+		<div class="col-12 col-md-7 bg-baggrund d-flex align-items-center justify-content-center">
 			<div class="ratio ratio-16x9">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/HeAW3uTwXYg" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 			</div>
