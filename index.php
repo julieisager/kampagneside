@@ -22,7 +22,7 @@
 <?php include "includes/menu.php";?>
 
 
-<a href="#top" id="pil"><i class="fa-solid fa-arrow-up"></i></a>
+<a href="#top" id="pil"><i class="fa-solid fa-circle-arrow-up"></i></a>
 
 <div class="container-fluid bg-baggrund p-3"></div>
 
