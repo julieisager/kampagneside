@@ -239,11 +239,11 @@ body{
 #halvcirkel::after {
 	content: "";
 	position: absolute;
-
+	top: 50%;
 	right: 0;
 	transform: translateY(-50%);
-	width: 3000px;
-	height: 3000px;
+	width: 100px;
+	height: 100px;
 	background-color:  rgb(168,227,113);
 	border-radius: 50%;
 }
