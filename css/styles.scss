@@ -234,20 +234,20 @@ body{
 
 #halvcirkel {
 	position: relative;
-	overflow: hidden;
+
 }
 
 #halvcirkel::after {
-	content: "";
+
 	position: absolute;
-	top: 0;
-	right: -500%;
-	transform: translateY(-50%);
-	width: 100%;
-	height: 200%;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 100px;
+	height: 200px;
 	background-color: rgb(168,227,113);
-	border-radius: 50%;
-	z-index: -1;
+	border-radius: 150px 150px 0 0;
+
 }
 
 
