@@ -15,10 +15,22 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end">
 
-
-                <li class="nav-item mx-3">
-                    <a class="nav-link active" aria-current="page" href="Hvem.php">Hvem er vi</a>
+                <li class="nav-item dropdown mx-3">
+                    <a class="nav-link active" href="Hvem.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Hvem er vi
+                    </a>
+                    <ul class="dropdown-menu" style="border: none" aria-labelledby="navbarDropdown">
+                        <li id="list-example" class="list-group">
+                            <a class="list-group-item list-group-item-action" href="#Veteranhaven">Veteranhaven</a>
+                            <a class="list-group-item list-group-item-action" href="#Projekter">Projekter</a>
+                            <a class="list-group-item list-group-item-action" href="#hjemmeside">Hjemmeside</a>
+                        </li>
+                    </ul>
                 </li>
+
+
+
+
 
 
                 <li class="nav-item mx-3">
