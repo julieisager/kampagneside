@@ -131,6 +131,9 @@ body{
 	@media #{$mobil}{
 		font-size: 14px;
 	}
+	@media #{$computer}{
+		font-size: large;
+	}
 }
 
 
