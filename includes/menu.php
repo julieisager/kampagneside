@@ -8,12 +8,12 @@
         <a class="navbar-brand" href="index.php">
             <img src="image/veteranhaven_logo_farver.png" alt="logo" id="logo">
         </a>
-        <button style="border: none;" class="navbar-toggler navheight" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button style="border: none;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" style="height: 100px;" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end align-content-center" style="height: 100px;">
+        <div class="collapse navbar-collapse " style="height: 100px;" id="navbarSupportedContent">
+            <ul class="navheight navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end align-content-center" style="height: 100px;">
 
                 <li class="nav-item dropdown mx-3 d-flex align-items-center">
                     <a class="nav-link active" href="Hvem.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">

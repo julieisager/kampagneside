@@ -190,7 +190,8 @@ body{
 
 .navheight{
 	@media #{$mobil}{
-		height: 200px;
+		height: 250px;
+		justify-content: end;
 	}
 }
 
