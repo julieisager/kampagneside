@@ -30,7 +30,7 @@
 <div class="container-fluid bg-baggrund" >
 
 	<div class="row">
-		<div class=" col-sm-4 p-3 col-md-4 bg-gron d-flex align-items-center justify-content-center">
+		<div class="  p-3 col-md-4 bg-gron d-flex align-items-center justify-content-center">
 			<div class=" text-white mt-3  mx-4" >
 				<h5>Lorem ipsum dolor sit amet</h5>
                 <br>
@@ -40,7 +40,7 @@
 
             </div>
 		</div>
-        <div class=" col-sm-2 col-md-2 d-flex align-items-center justify-content-center"
+        <div class="  col-md-2 d-flex align-items-center justify-content-center"
              style="
             height: auto;
             right: 0;
@@ -48,9 +48,9 @@
             background-color: rgb(168,227,113);"
         ></div>
 
-		<div class=" col-sm-6 col-md-6 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
+		<div class="  col-md-6 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
 
-                <div class="ratio ratio-16x9" style="margin-left: -100px; top: 10px;">
+                <div class="ratio ratio-16x9" id="over">
                 <iframe src="https://www.youtube.com/embed/HeAW3uTwXYg" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 </div>
 

@@ -222,7 +222,13 @@ body{
 }
 
 
+#over{
+	@media #{$nav, $computer}{
+		margin-left: -100px;
+		top: 10px;
+	}
 
+}
 
 
 #pil{
