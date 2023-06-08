@@ -45,8 +45,8 @@
 
 
 
-                <li class="nav-item mx-3 d-flex align-items-center" id="firkant" style="background-color: #9b89b8">
-                    <a  class="nav-link active" aria-current="page" href="stot.php" id="lillafarve">Støt</a>
+                <li class="nav-item mx-3 d-flex align-items-center" id="firkant" style="background-color: #9b89b8; width: 60px">
+                    <a  class="nav-link active text-center" aria-current="page" href="stot.php" id="lillafarve">Støt</a>
                 </li>
 
 
