@@ -1,8 +1,8 @@
 
 <div class="container-fluid bg-baggrund p-4">
     <div class="row">
-        <div class="col-12 col-md-4 line mb-3 text-center">
-            <h5>Vores oplysninger</h5>
+        <div class="col-12 col-md-4 line mb-3 text-md-start text-sm-center text-xs-center">
+            <h5 class="text-center">Vores oplysninger</h5>
             VeteranHaven <br>
             Brovej 13b - Slots Bjergby <br>
             4200 Slagelse <br>
