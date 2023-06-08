@@ -190,9 +190,14 @@ body{
 
 .navheight{
 	@media #{$mobil}{
-		height: 250px;
-		align-content: end;
+		height: 0;
+
 	}
+	@media #{$nav,$computer}{
+		height: 100px;
+
+
+		}
 }
 
 
