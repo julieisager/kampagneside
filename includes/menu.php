@@ -12,10 +12,10 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end">
+        <div class="collapse navbar-collapse" style="height: 100px;" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end align-content-center" style="height: 100px;">
 
-                <li class="nav-item dropdown mx-3">
+                <li class="nav-item dropdown mx-3 d-flex align-items-center">
                     <a class="nav-link active" href="Hvem.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Hvem er vi
                     </a>
@@ -31,7 +31,7 @@
 
 
 
-                <li class="nav-item dropdown mx-3">
+                <li class="nav-item dropdown mx-3 d-flex align-items-center">
                     <a class="nav-link active" href="RSV.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         RSV
                     </a>
@@ -45,12 +45,12 @@
 
 
 
-                <li class="nav-item mx-3 " id="firkant">
+                <li class="nav-item mx-3 d-flex align-items-center" id="firkant" style="background-color: #0a53be">
                     <a  class="nav-link active" aria-current="page" href="stot.php" id="lillafarve">Støt</a>
                 </li>
 
 
-                <li class="nav-item mx-3">
+                <li class="nav-item mx-3 d-flex align-items-center">
                     <a class="nav-link active" aria-current="page" href="FindOs.php">Kontakt</a>
                 </li>
 
