@@ -223,7 +223,7 @@ body{
 
 
 #over{
-	@media #{$nav, $computer}{
+	@media #{$tablet, $computer}{
 		margin-left: -100px;
 		top: 10px;
 	}
