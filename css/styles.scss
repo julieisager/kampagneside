@@ -115,10 +115,6 @@ body{
 	@media #{$mobil}{
 		font-size: small;
 	}
-
-	@media #{$nav}{
-		font-size: 15px;
-	}
 	@media #{$tablet}{
 		font-size: medium;
 	}
