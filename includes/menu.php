@@ -2,13 +2,13 @@
 
 
 
-<nav class="navbar navbar-expand-lg navbar-light bg-white" style="position: relative">
+<nav class="navbar navbar-expand-lg navbar-light bg-white" style="position: relative;">
     <div class="container-fluid">
 
         <a class="navbar-brand" href="index.php">
             <img src="image/veteranhaven_logo_farver.png" alt="logo" id="logo">
         </a>
-        <button style="border: none" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button style="border: none;" class="navbar-toggler navheight" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
