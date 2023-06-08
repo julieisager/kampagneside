@@ -19,6 +19,9 @@
                     <a class="nav-link active" href="Hvem.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Hvem er vi
                     </a>
+                    <button type="button" class="btn btn-secondary" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="Bottom popover">
+                        Popover on bottom
+                    </button>
                     <ul class="dropdown-menu" style="border: none" aria-labelledby="navbarDropdown">
                         <li id="list-example" class="list-group">
                             <a class="list-group-item list-group-item-action" href="#Veteranhaven">Veteranhaven</a>
@@ -46,7 +49,6 @@
 
                 <li class="nav-item mx-3 " id="firkant">
                     <a  class="nav-link active" aria-current="page" href="stot.php" id="lillafarve">Støt</a>
-
                 </li>
 
 
