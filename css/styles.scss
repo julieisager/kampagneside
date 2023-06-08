@@ -191,7 +191,7 @@ body{
 .navheight{
 	@media #{$mobil}{
 		height: 250px;
-		justify-content: end;
+		align-items: flex-end;
 	}
 }
 
