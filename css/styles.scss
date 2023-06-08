@@ -128,7 +128,7 @@ body{
 }
 
 .textforside{
-	@media #{$nav}{
+	@media #{$mobil}{
 		font-size: 10px;
 	}
 }
