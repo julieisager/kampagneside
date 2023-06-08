@@ -155,7 +155,7 @@ body{
 }
 
 
-@media #{$nav}{
+@media #{$nav,$computer}{
 #firkant {
 	position: relative;
 
@@ -164,7 +164,7 @@ body{
 #firkant:after {
 	content: "";
 	position: absolute;
-	bottom: 0;
+	bottom: -60px;
 	left: 0;
 	right: 0;
 	margin: 0 auto;
@@ -182,28 +182,7 @@ body{
 	--bs-navbar-padding-y: none;
 }
 
-@media #{$computer}{
-	#firkant {
-		position: relative;
 
-	}
-
-	#firkant:after {
-		content: "";
-		position: absolute;
-		bottom: -60px;
-		left: 0;
-		right: 0;
-		margin: 0 auto;
-		display: block;
-		width: 0;
-		height: 0;
-		border-left: 25px solid transparent;
-		border-right: 25px solid transparent;
-		border-top: 25px solid #907CB0;
-
-	}
-}
 
 
 
