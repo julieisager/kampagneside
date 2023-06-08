@@ -62,7 +62,7 @@
 	<div class="row">
 		<div class="col-12 col-md-5 mb-3">
 			<div class="card" style="border: none">
-				<div id="billideunder" >
+				<div class="d-flex justify-content-center  ratio-16x9" id="billideunder">
 					<img src="image/veteranhaven/veteranhaveforside.png" alt="VHforside">
 				</div>
 			</div>

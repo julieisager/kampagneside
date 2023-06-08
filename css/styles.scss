@@ -237,10 +237,13 @@ body{
 }
 
 #billideunder{
-	@media #{$tablet, $computer}{
+	@media #{$tablet}{
 		margin-left: 10px;
-
 	}
+	@media #{$computer}{
+		margin-left: 20px;
+	}
+
 }
 
 
