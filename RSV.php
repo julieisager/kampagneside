@@ -27,15 +27,15 @@
 <div class="container-fluid bg-gron">
     <div class="row">
         <div class="col text-center mb-3 mt-3">
-            <h4>Registreret Socialøkonomisk Virksomhed</h4>
+            <h4 id="RSV">Registreret Socialøkonomisk Virksomhed</h4>
         </div>
     </div>
 </div>
 
 <div class="container-fluid bg-white">
     <div class="row">
-        <div class="col text-center mb-3 mt-3">
-
+        <div class="col mb-3 mt-3">
+            <h4 id="slagelse">Slagelse Kommune</h4>
 
         </div>
     </div>
