@@ -31,7 +31,7 @@
 
 	<div class="row">
 		<div class="  p-3 col-md-4 bg-gron d-flex align-items-center justify-content-center">
-			<div class=" text-white mt-3  mx-4" >
+			<div class=" text-white mt-3 mx-4 textforside" >
 				<h5>Lorem ipsum dolor sit amet</h5>
                 <br>
                 VeteranHaven ligger i Slagelse kommune. De er et tilbud til folk med besvær i hverdagen, veteraner og alt derimellem.

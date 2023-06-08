@@ -127,6 +127,12 @@ body{
 
 }
 
+.textforside{
+	@media #{$nav}{
+		font-size: small;
+	}
+}
+
 
 .line2{
 	@media #{$mobil}{
@@ -197,8 +203,6 @@ body{
 	}
 	@media #{$nav,$computer}{
 		height: 100px;
-
-
 		}
 }
 
