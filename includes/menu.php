@@ -22,9 +22,9 @@
 
                     <ul class="dropdown-menu" style="border: none" aria-labelledby="navbarDropdown">
                         <li id="list-example" class="list-group">
-                            <a class="list-group-item list-group-item-action" href="#Veteranhaven">Veteranhaven</a>
-                            <a class="list-group-item list-group-item-action" href="#Projekter">Projekter</a>
-                            <a class="list-group-item list-group-item-action" href="#hjemmeside">Hjemmeside</a>
+                            <a class="list-group-item list-group-item-action" href="Hvem.php #Veteranhaven">Veteranhaven</a>
+                            <a class="list-group-item list-group-item-action" href="Hvem.php #Projekter">Projekter</a>
+                            <a class="list-group-item list-group-item-action" href="Hvem.php #hjemmeside">Hjemmeside</a>
                         </li>
                     </ul>
                 </li>
@@ -37,8 +37,8 @@
                     </a>
                     <ul class="dropdown-menu" style="border: none" aria-labelledby="navbarDropdown">
                         <li id="list-example" class="list-group">
-                            <a class="list-group-item list-group-item-action" href="#RSV">Hvad er RSV?</a>
-                            <a class="list-group-item list-group-item-action" href="#slagelse">Slagelse kommune</a>
+                            <a class="list-group-item list-group-item-action" href="RSV.php #RSV">Hvad er RSV?</a>
+                            <a class="list-group-item list-group-item-action" href="RSV.php #slagelse">Slagelse kommune</a>
                         </li>
                     </ul>
                 </li>
