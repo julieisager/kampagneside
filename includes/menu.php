@@ -12,7 +12,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse " style="height: 100px;" id="navbarSupportedContent">
+        <div class="navheight collapse navbar-collapse " style="height: 100px;" id="navbarSupportedContent">
             <ul class="navheight navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end align-content-center" style="height: 100px;">
 
                 <li class="nav-item dropdown mx-3 d-flex align-items-center">
