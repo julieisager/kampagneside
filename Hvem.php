@@ -45,19 +45,74 @@
             <div class="card-body">
                 <h5 class="card-title text-center mb-3">Igangværende projekter</h5>
 
-                <p class="card-text bg-white p-3 text-center h5">
-                Veteranborgen
-                    <br><br>
-                Orangeri
-                    <br><br>
-                Middelalderborg
-                    <br><br>
-                WC og Kloakering
-                </p>
+                <div class="card-text bg-white p-3 text-center h5">
 
+                    <div class="nav-item dropdown mb-5 mt-3">
+                        <p class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Veteranborgen
+                        </p>
+                        <div class="dropdown-menu p-3" aria-labelledby="navbarDropdown">
+                            <div class="">
+                            Med inspiration fra Trelleborg, er vi gået i gang med at skabe vores version.
+                            Her drømer vi om en andedam som en voldgrav og en køkkenhave der skal ligne vikingeskibe og meget mere!
+                            <br><br>
+                            Støttet af: Trygfonden &nbsp; Søger: Flere sponsorer
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="nav-item dropdown mb-5 mt-3">
+                        <p class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Orangeri
+                        </p>
+                        <div class="dropdown-menu p-3" aria-labelledby="navbarDropdown">
+                            <div class="">
+                                Et firlænget drivhus anlagt med et tårn i midten. Det skal indeholde brændeovn, hængekøjer, lænestole og rislende vand. Stedet skal nydes når der er koldt i haven.
+                                <br><br>
+                                Støttet af: Veterancenteret og Nikolai og Felix Foden - Grever af Monpezat
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="nav-item dropdown mb-5 mt-3">
+                        <p class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                           Middelalderborg
+                        </p>
+                        <div class="dropdown-menu p-3" aria-labelledby="navbarDropdown">
+                            <div class="">
+                                Vi vil skabe en middelalderinspireret legeborg til vores mindste gæster.
+                                  <br><br>
+                                Støttet af: Rotary Slagelse & Rotarys hjælpefond
+                                <br>Søger: Flere sponsorer
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="nav-item dropdown mb-5 mt-3">
+                        <p class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            WC og Kloakering
+                        </p>
+                        <div class="dropdown-menu p-3" aria-labelledby="navbarDropdown">
+                            <div class="">
+                                Vi ønsker at forbedre toiletforholdene for deltagerne og vores besøgende.
+                                <br><br>
+                                Projektet finansieres af stedet selv, men søger gerne sponsorer
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
             </div>
         </div>
-        <div class="col-12 col-md-6 text-center">
+
+
+        <div class="col-12 col-md-6 text-center mt-3">
             <div class="card-body">
                 <h5 class="card-title text-center mb-3">
                     Læs mere på <a href="https://www.veteranhaven.dk/">VeteranHaven.dk</a>
@@ -67,6 +122,9 @@
         </div>
     </div>
 </div>
+
+
+
 
 
 <div class="container-fluid bg-gron">
@@ -83,8 +141,8 @@
             Hvis du vil vide mere om Veteranhaven og deres initativer, så besøg dem på deres
             <a href="https://www.veteranhaven.dk/">hjemmeside</a>.
         </div>
-        <div class="col-12 text-center mb-3 mt-3">
-            <iframe src="https://www.veteranhaven.dk/" width="900" height="500"></iframe>
+        <div class="col-12 text-center mb-3 mt-3" id="siden">
+            <iframe src="https://www.veteranhaven.dk/"></iframe>
         </div>
     </div>
 </div>
