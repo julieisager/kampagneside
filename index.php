@@ -42,8 +42,6 @@
 		</div>
         <div class=" col-sm-2 col-md-2 d-flex align-items-center justify-content-center"
              style="
-
-            width: 200px;
             height: auto;
             right: 0;
             border-radius: 0 20rem 20rem 0;

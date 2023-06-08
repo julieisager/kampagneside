@@ -9,7 +9,7 @@
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
-    <link rel="stylesheet" href="https://use.typekit.net/who0qtq.css"
+    <link rel="stylesheet" href="https://use.typekit.net/who0qtq.css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="https://kit.fontawesome.com/4c1c4ae382.js" crossorigin="anonymous"></script>
 
