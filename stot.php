@@ -139,13 +139,13 @@
 
 <div class="container-fluid bg-white mb-5 mt-3 d-flex justify-content-center">
     <div class="row">
-            <img src="image/Sponsor/velliv-foreningen.png" alt="velliv" class="col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
+            <img src="image/Sponsor/velliv-foreningen.png" alt="velliv" class="ratio col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
 
-            <img src="image/Sponsor/k.juby.png" alt="kjuby" class="col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
+            <img src="image/Sponsor/k.juby.png" alt="kjuby" class="ratio col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
 
-            <img src="image/Sponsor/velux_fonden.png" alt="velux" class="col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
+            <img src="image/Sponsor/velux_fonden.png" alt="velux" class="ratio col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
 
-            <img src="image/Sponsor/Ellegaard.png" alt="ellagaard" class="col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
+            <img src="image/Sponsor/Ellegaard.png" alt="ellagaard" class="ratio col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
 
     </div>
 </div>
