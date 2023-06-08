@@ -141,7 +141,7 @@
             Hvis du vil vide mere om Veteranhaven og deres initativer, så besøg dem på deres
             <a href="https://www.veteranhaven.dk/">hjemmeside</a>.
         </div>
-        <div class="col-12 text-center mb-3 mt-3 ratio ratio-16x9">
+        <div class="col-12 text-center mb-3 mt-3  ratio-16x9 d-flex justify-content-center">
             <iframe id="siden" src="https://www.veteranhaven.dk/"></iframe>
         </div>
     </div>
