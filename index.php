@@ -26,7 +26,6 @@
 <?php include "includes/menu.php";?>
 
 
-
 <div class="container-fluid bg-baggrund" >
 
 	<div class="row">
