@@ -68,10 +68,15 @@
 		</div>
 		<div class="col-12 col-md-7 mb-3 d-flex align-items-center justify-content-center">
 			<div class="card ">
-				<div class="card-body ">
-					This is some text within a card body.
-                    This is some text within a card body.
-				</div>
+				<div class="card-body ratio-16x9">
+					VeteranHaven er en socialøkonomisk virksom hed.<br>
+                    Det betyder blandt andet at:<br><br>
+                    <p class="lh-lg">
+                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp; Vi skal være uafhængige af det offentligt. <br>
+                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp; Vi har et socialt formål, som gavner samfundet.<br>
+                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp; Vi skal være erhvervsdrivende ved at tilbyde ydelser og/eller sælge varer, og heraf tjene den primære indkomst.
+                    </p>
+                </div>
 			</div>
 		</div>
 	</div>
