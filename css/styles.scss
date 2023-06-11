@@ -232,16 +232,9 @@ body{
 }
 
 
-#over{
+#over, #overtekst{
 	@media #{$tablet, $computer}{
 		margin-left: -100px;
-		top: 10px;
-	}
-}
-
-#overtekst{
-	@media #{$tablet, $computer}{
-		margin-left: -200px;
 		top: 10px;
 	}
 }
