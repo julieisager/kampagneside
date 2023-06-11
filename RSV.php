@@ -72,7 +72,7 @@
 <div class="container-fluid bg-white">
     <div class="row">
         <div class="col-12 d-flex justify-content-end align-content-end mb-3 mt-3">
-            <div class="card halv">
+            <div class="card" id="halv">
                 <div class="card-body">
                     Her hos VeteranHaven driver vi en socialøkonomisk vorksomhed, og det gør vi for at kunne fortsætte med vores arbejde!<br><br>
                     Vores primære formål er at lave en arbejdsplads, som tager hensyn til alle, og deres eventuelle udfordringer. <br>Som en socialøkonomisk virksomhed har man til formål at skabe en positiv virkning i samfundet. <br>Vi tjener penge på almindelige markedsvilkår ligesom alle andre, men hvis der kommer et overskud, skal dette geninvesteres.
