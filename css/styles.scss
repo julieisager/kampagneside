@@ -116,6 +116,9 @@ body{
 		font-size: small;
 	}
 	@media #{$tablet}{
+		font-size: 10px;
+	}
+	@media #{$nav}{
 		font-size: medium;
 	}
 	@media #{$computer}{
