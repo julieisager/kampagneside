@@ -15,35 +15,27 @@
         <div class=" collapse navbar-collapse " style="height: 100px;" id="navbarSupportedContent">
             <ul class="navheight navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end align-content-center">
 
+
                 <li class="nav-item dropdown mx-3 d-flex align-items-center">
                     <a class="nav-link active" href="Hvem.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Hvem er vi
                     </a>
-
-                    <ul class="dropdown-menu" style="border: none" aria-labelledby="navbarDropdown">
-                        <li id="list-example" class="list-group">
-                            <a class="list-group-item list-group-item-action" href="Hvem.php #Veteranhaven">Veteranhaven</a>
-                            <a class="list-group-item list-group-item-action" href="Hvem.php #Projekter">Projekter</a>
-                            <a class="list-group-item list-group-item-action" href="Hvem.php #hjemmeside">Hjemmeside</a>
-                        </li>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="Hvem.php #Veteranhaven">Veteranhaven</a></li>
+                        <li><a class="dropdown-item" href="Hvem.php #Projekter">Projekter</a></li>
+                        <li><a class="dropdown-item" href="Hvem.php #hjemmeside">Hjemmesidee</a></li>
                     </ul>
                 </li>
-
-
 
                 <li class="nav-item dropdown mx-3 d-flex align-items-center">
                     <a class="nav-link active" href="RSV.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         RSV
                     </a>
-                    <ul class="dropdown-menu" style="border: none" aria-labelledby="navbarDropdown">
-                        <li id="list-example" class="list-group">
-                            <a class="list-group-item list-group-item-action" href="RSV.php #RSV">Hvad er RSV?</a>
-                            <a class="list-group-item list-group-item-action" href="RSV.php #slagelse">Slagelse kommune</a>
-                        </li>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="RSV.php #RSV">Hvad er RSV?</a></li>
+                        <li><a class="dropdown-item" href="RSV.php #slagelse">Slagelse kommune</a></li>
                     </ul>
                 </li>
-
-
 
                 <li class="nav-item mx-3 lilla d-flex align-items-center" id="firkant">
                     <a  class="nav-link active text-center" aria-current="page" href="stot.php" id="lillafarve">Støt</a>

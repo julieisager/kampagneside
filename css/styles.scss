@@ -238,7 +238,11 @@ body{
 		top: 10px;
 	}
 }
-
+.halv{
+	@media #{$tablet, $computer}{
+		width: 50%;
+	}
+}
 
 #pil{
 	position: fixed;

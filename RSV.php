@@ -25,19 +25,59 @@
 <?php include "includes/menu.php";?>
 
 
-<div class="container-fluid bg-gron">
+
+
+
+
+<div class="container-fluid bg-baggrund" >
+
     <div class="row">
-        <div class="col text-center mb-3 mt-3">
-            <h4 id="RSV">Registreret Socialøkonomisk Virksomhed</h4>
+        <div class="  p-3 col-md-6 bg-gron d-flex align-items-center justify-content-center">
+            <div class="mt-3 textforside" >
+                <h4 id="RSV">Registreret Socialøkonomisk Virksomhed</h4>
+                <p class="lh-lg">
+                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp; Som en socialøkonomisk virksomhed prioriterer VteranHaven social værdiskabelse over økonmisk profitmaksimering. <br><br>
+                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp; VeteranHavens social mission er integreret i hele deres forretningsmodel. De kanalisere oversuddet fra deres aktiviteter til at finansiere og udvide deres sociale programmer og tjenester.<br><br>
+                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp; VeteranHaven fungerer som en inspirerende model for, hvordan socialt ansvar og økonomisk bæredygtighed kan gå hånd i hånd. De viser, at det er muligt at drive en virksomhed samtidig med at man gør en positiv forskel i samfundet og støtter sårbare grupper.
+                </p>
+            </div>
+        </div>
+        <div class="  col-md-2 d-flex align-items-center justify-content-center"
+             style="
+            height: auto;
+            right: 0;
+            border-radius: 0 20rem 20rem 0;
+            background-color: rgb(168,227,113);"
+        ></div>
+
+        <div class="col-md-4 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="container-fluid bg-white">
+    <div class="row">
+        <div class="col mb-3 mt-3">
+            <h4 id="slagelse">Slagelse Kommune</h4>
         </div>
     </div>
 </div>
 
 <div class="container-fluid bg-white">
     <div class="row">
-        <div class="col mb-3 mt-3">
-            <h4 id="slagelse">Slagelse Kommune</h4>
-
+        <div class="col-12 d-flex justify-content-end align-content-end mb-3 mt-3">
+            <div class="card halv">
+                <div class="card-body">
+                    Her hos VeteranHaven driver vi en socialøkonomisk vorksomhed, og det gør vi for at kunne fortsætte med vores arbejde!<br><br>
+                    Vores primære formål er at lave en arbejdsplads, som tager hensyn til alle, og deres eventuelle udfordringer. <br>Som en socialøkonomisk virksomhed har man til formål at skabe en positiv virkning i samfundet. <br>Vi tjener penge på almindelige markedsvilkår ligesom alle andre, men hvis der kommer et overskud, skal dette geninvesteres.
+                </div>
+            </div>
         </div>
     </div>
 </div>
