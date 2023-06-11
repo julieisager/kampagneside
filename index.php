@@ -60,7 +60,7 @@
 <div class="container-fluid bg-white p-3" >
 	<div class="row">
 		<div class="col-12 col-md-6 d-flex justify-content-center align-items-center ratio-16x9">
-
+            <img src="image/veteranhaven/veteranhaveforside.png">
 		</div>
 		<div class="col-12 col-md-6 mb-3 d-flex align-items-center justify-content-center" style="position: relative">
 			<div class="card" id="overtekst">
