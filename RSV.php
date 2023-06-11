@@ -32,9 +32,10 @@
 <div class="container-fluid bg-baggrund" >
 
     <div class="row">
-        <div class="  p-3 col-md-6 bg-gron d-flex align-items-center justify-content-center">
+        <div class="p-3 col-md-6 bg-gron d-flex align-items-center justify-content-center">
             <div class="mt-3 textforside" >
-                <h4 id="RSV">Registreret Socialøkonomisk Virksomhed</h4>
+                <h4 id="RSVnav">Registreret Socialøkonomisk Virksomhed</h4>
+                <br><br>
                 <p class="lh-lg">
                     <i class="fa-solid fa-arrow-right h4"></i> &nbsp; Som en socialøkonomisk virksomhed prioriterer VteranHaven social værdiskabelse over økonmisk profitmaksimering. <br><br>
                     <i class="fa-solid fa-arrow-right h4"></i> &nbsp; VeteranHavens social mission er integreret i hele deres forretningsmodel. De kanalisere oversuddet fra deres aktiviteter til at finansiere og udvide deres sociale programmer og tjenester.<br><br>
@@ -51,9 +52,7 @@
         ></div>
 
         <div class="col-md-4 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
-
-
-
+            <img id="slagelsekommune" class="ratio-1x1 ratio" src="image/SLA_logo_10x8.gif">
         </div>
     </div>
 </div>
@@ -72,7 +71,7 @@
 <div class="container-fluid bg-white">
     <div class="row">
         <div class="col-12 d-flex justify-content-end align-content-end mb-3 mt-3">
-            <div class="card" id="halv">
+            <div class="card w-75">
                 <div class="card-body">
                     Her hos VeteranHaven driver vi en socialøkonomisk vorksomhed, og det gør vi for at kunne fortsætte med vores arbejde!<br><br>
                     Vores primære formål er at lave en arbejdsplads, som tager hensyn til alle, og deres eventuelle udfordringer. <br>Som en socialøkonomisk virksomhed har man til formål at skabe en positiv virkning i samfundet. <br>Vi tjener penge på almindelige markedsvilkår ligesom alle andre, men hvis der kommer et overskud, skal dette geninvesteres.

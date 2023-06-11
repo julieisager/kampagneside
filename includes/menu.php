@@ -32,7 +32,7 @@
                         RSV
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="RSV.php #RSV">Hvad er RSV?</a></li>
+                        <li><a class="dropdown-item" href="RSV.php #RSVnav">Hvad er RSV?</a></li>
                         <li><a class="dropdown-item" href="RSV.php #slagelse">Slagelse kommune</a></li>
                     </ul>
                 </li>

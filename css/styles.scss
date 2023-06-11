@@ -238,11 +238,18 @@ body{
 		top: 10px;
 	}
 }
-
-#halv{
-	@media #{$tablet, $computer}{
-		width: 50%;
+#slagelsekommune{
+	@media #{$mobil}{
+		height: 100px;
+		width: auto;
 	}
+	@media #{$tablet}{
+		height: 100px;
+		width: auto;
+	}
+	@media #{$computer}{
+		height: 100px;
+		width: auto;
 }
 
 #pil{
