@@ -52,7 +52,7 @@
         ></div>
 
         <div class="col-md-4 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
-            <img id="slagelsekommune" class="ratio-1x1 ratio" src="image/SLA_logo_10x8.gif">
+            <img class="ratio-1x1 ratio" src="image/SLA_logo_10x8.gif">
         </div>
     </div>
 </div>

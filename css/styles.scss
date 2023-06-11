@@ -238,19 +238,7 @@ body{
 		top: 10px;
 	}
 }
-#slagelsekommune{
-	@media #{$mobil}{
-		height: 100px;
-		width: auto;
-	}
-	@media #{$tablet}{
-		height: 100px;
-		width: auto;
-	}
-	@media #{$computer}{
-		height: 100px;
-		width: auto;
-}
+
 
 #pil{
 	position: fixed;
