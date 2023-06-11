@@ -59,16 +59,12 @@
 
 <div class="container-fluid bg-white p-3" >
 	<div class="row">
-		<div class="col-12 col-md-6 mb-3">
-			<div class="card" style="border: none">
-				<div class="d-flex justify-content-center ratio-16x9">
-					<img src="image/veteranhaven/veteranhaveforside.png" alt="VHforside">
-				</div>
-			</div>
+		<div class="col-12 col-md-6 d-flex justify-content-center align-items-center ratio-16x9">
+
 		</div>
-		<div class="col-12 col-md-6 mb-3 d-flex align-items-center justify-content-center">
-			<div class="card" id="overtekst">
-				<div class="card-body textforside">
+		<div class="col-12 col-md-6 mb-3 d-flex align-items-center justify-content-center" style="position: relative">
+			<div class="card" >
+				<div class="card-body textforside"  id="overtekst">
 					VeteranHaven er en socialøkonomisk virksom hed.<br>
                     Det betyder blandt andet at:<br><br>
                     <p class="lh-lg">
