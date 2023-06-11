@@ -30,7 +30,7 @@
 
 	<div class="row">
 		<div class="  p-3 col-md-4 bg-gron d-flex align-items-center justify-content-center">
-			<div class=" text-white mt-3 mx-4 textforside" >
+			<div class=" text-white mt-3 textforside" >
 				<h5>Lorem ipsum dolor sit amet</h5>
                 <br>
                 VeteranHaven ligger i Slagelse kommune. De er et tilbud til folk med besvær i hverdagen, veteraner og alt derimellem.
@@ -47,7 +47,7 @@
             background-color: rgb(168,227,113);"
         ></div>
 
-		<div class="  col-md-6 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
+		<div class="col-md-6 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
 
                 <div class="ratio ratio-16x9" id="over">
                 <iframe src="https://www.youtube.com/embed/HeAW3uTwXYg" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -59,16 +59,16 @@
 
 <div class="container-fluid bg-white p-3" >
 	<div class="row">
-		<div class="col-12 col-md-5 mb-3">
+		<div class="col-12 col-md-6 mb-3">
 			<div class="card" style="border: none">
 				<div class="d-flex justify-content-center ratio-16x9">
 					<img src="image/veteranhaven/veteranhaveforside.png" alt="VHforside">
 				</div>
 			</div>
 		</div>
-		<div class="col-12 col-md-7 mb-3 d-flex align-items-center justify-content-center">
-			<div class="card ">
-				<div class="card-body ratio-16x9">
+		<div class="col-12 col-md-6 mb-3 d-flex align-items-center justify-content-center">
+			<div class="card" id="overtekst">
+				<div class="card-body textforside">
 					VeteranHaven er en socialøkonomisk virksom hed.<br>
                     Det betyder blandt andet at:<br><br>
                     <p class="lh-lg">
