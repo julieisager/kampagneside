@@ -24,13 +24,6 @@
 
 <?php include "includes/menu.php";?>
 
-<div class="container-fluid bg-light">
-    <div class="row">
-        <div class="col text-center mb-3 mt-3">
-
-        </div>
-    </div>
-</div>
 
 <div class="container-fluid bg-gron d-flex justify-content-center">
     <div class="row">
@@ -63,6 +56,41 @@
     </div>
 </div>
 
+
+<div class="container-fluid bg-baggrund">
+    <div class="row">
+        <div class="col text-center mb-3 mt-3">
+            <h3>Kommende begivenheder</h3>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid bg-baggrund">
+    <div class="row">
+        <div class="mb-3 mt-3">
+            <div class="card col-12 col-md-4" style="width: 18rem;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+
+            <div class="card col-12 col-md-4" style="width: 18rem;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+
+            <div class="card col-12 col-md-4" style="width: 18rem;">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <?php include "includes/footer.php";?>

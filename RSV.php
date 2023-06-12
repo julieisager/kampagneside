@@ -32,8 +32,8 @@
 <div class="container-fluid bg-baggrund" >
 
     <div class="row">
-        <div class="p-3 col-md-6 bg-gron d-flex align-items-center justify-content-center">
-            <div class="mt-3 textforside" >
+        <div class=" col-md-5 bg-gron d-flex align-items-center justify-content-center">
+            <div class="textforside" >
                 <h4 id="RSVnav">Registreret Socialøkonomisk Virksomhed</h4>
                 <br><br>
                 <div class="">
@@ -52,7 +52,7 @@
             background-color: rgb(168,227,113);"
         ></div>
 
-        <div class="col-md-4 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
+        <div class="col-md-5 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
             <img class="ratio-1x1 ratio" src="image/SLA_logo_10x8.gif">
         </div>
     </div>
