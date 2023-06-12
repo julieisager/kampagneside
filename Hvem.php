@@ -36,7 +36,7 @@
         <div class="col-12 col-md-6">
             <img src="image/veteranhaven/Rene.png" class="card-img-top" alt="rene">
         </div>
-        <div class="col-12 col-md-6 mt-3 text-center">
+        <div class="col-12 col-md-6 text-center">
             <p class="text-start mt-4">
                 <i class="fa-solid fa-arrow-right h4"></i>
                 VeteranHaven er en organisation dedikeret til at støtte og hjælpe veteraner og andre personer med deres udfordringer.
