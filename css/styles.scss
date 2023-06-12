@@ -236,16 +236,7 @@ body{
 
 #flag{
 	@media #{$mobil}{
-		height: 70px;
-		width: auto;
-	}
-	@media #{$tablet}{
-		height: 90px;
-		width: auto;
-	}
-	@media #{$computer}{
-		height: 100px;
-		width: auto;
+		display: none;
 	}
 }
 
