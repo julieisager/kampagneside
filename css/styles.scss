@@ -238,6 +238,12 @@ body{
 	@media #{$mobil}{
 		display: none;
 	}
+	@media #{$tablet}{
+		display: block;
+	}
+	@media #{$computer}{
+		display: block;
+	}
 }
 
 .card-hover:hover{
