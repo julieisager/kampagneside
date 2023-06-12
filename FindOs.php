@@ -57,7 +57,7 @@
 </div>
 
 
-<div class="container-fluid bg-baggrund">
+<div class="container-fluid bg-white">
     <div class="row">
         <div class="col text-center mb-3 mt-3">
             <h3>Kommende begivenheder</h3>
@@ -65,27 +65,35 @@
     </div>
 </div>
 
-<div class="container-fluid bg-baggrund">
+<div class="container-fluid bg-white">
     <div class="row">
-        <div class="mb-3 mt-3">
-            <div class="card col-12 col-md-4" style="width: 18rem;">
-                <img src="..." class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <div class="mb-3 mt-3 d-flex col-12 col-md-4 justify-content-center">
+            <div class="card" style="width: 18rem;">
+                <img src="image/kontakt/10th.png" class="card-img-top" alt="10th">
+                <div class="card-body bg-baggrund">
+                    <p class="card-text text-center fs-5">10 års Jubilæum!</p>
+                    <p class="card-text text-center fw-light">Mandag d. 12/6 kl. 11</p>
+                    <p class="card-text">Fejre vores jubilæum med pølser, brød og sodavand ved bådpladsen sammen med os.</p>
                 </div>
             </div>
-
-            <div class="card col-12 col-md-4" style="width: 18rem;">
-                <img src="..." class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        </div>
+        <div class="mb-3 mt-3 d-flex col-12 col-md-4 justify-content-center">
+            <div class="card" style="width: 18rem;">
+                <img src="image/kontakt/runforvets.png" class="card-img-top" alt="runforvets">
+                <div class="card-body bg-baggrund">
+                    <p class="card-text text-center fs-5">Run for Vets</p>
+                    <p class="card-text text-center fw-light">Lærdag d. 12/8 kl. 10</p>
+                    <p class="card-text">Fra Antvorskov Kasserne kører motorcyklerne en smuk rute ud til VeteranHaven.</p>
                 </div>
             </div>
-
-            <div class="card col-12 col-md-4" style="width: 18rem;">
-                <img src="..." class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        </div>
+        <div class="mb-3 mt-3 d-flex col-12 col-md-4 justify-content-center">
+            <div class="card" style="width: 18rem;">
+                <img src="image/kontakt/dannebrog.png" class="card-img-top" alt="dannebrog">
+                <div class="card-body bg-baggrund">
+                    <p class="card-text text-center fs-5">Flagdag</p>
+                    <p class="card-text text-center fw-light">Tirsdag d. 5/9 kl. 18</p>
+                    <p class="card-text">Støt op om Flagdag for Danmarks udsendte. Der serveres mad og drikke.</p>
                 </div>
             </div>
         </div>
