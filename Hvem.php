@@ -31,8 +31,20 @@
         </div>
         <div class="col-12 col-md-6 mt-3 text-center">
             <h3 id="Veteranhaven">Hvem er VeteranHaven</h3>
-            <p></p>
-            lorem ipsum
+            <p class="text-start mt-4">
+                <i class="fa-solid fa-arrow-right h4"></i>
+                VeteranHaven er en organisation dedikeret til at støtte og hjælpe veteraner og andre personer med deres udfordringer.
+                <br><br>
+                <i class="fa-solid fa-arrow-right h4"></i>
+                Organisationen tilbyder et trygt og støttende miljø, hvor brugerne kan samles og dele deres erfaringer.
+                <br><br>
+                <i class="fa-solid fa-arrow-right h4"></i>
+                VeteranHaven giver også adgang til terapeutiske aktiviteter og programmer, der er designet til at styrke brugernes velvære og vej tilbage i livet.
+                <br><br>
+                <i class="fa-solid fa-arrow-right h4"></i>
+                Målet med VeteranHaven er at skabe et netværk, hvor brugerne kan finde støtte, sociale forbindelser og ressourcer til at håndtere udfordringer.
+            </p>
+
         </div>
     </div>
 </div>
