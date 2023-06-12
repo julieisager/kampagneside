@@ -56,11 +56,9 @@
                         </div>
                     </div>
                 </div>
-                <p>
-                    <a class="btn" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
+                    <a class="btn d-flex align-items-center" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
                         <span><i class="fa-solid fa-magnifying-glass"></i></span>
                     </a>
-                </p>
             </form>
 
         </div>
