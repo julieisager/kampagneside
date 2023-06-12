@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-12 col-md-4 line mb-3 text-md-start text-sm-center text-xs-center">
             <h5 class="text-center mb-3">Vores oplysninger</h5>
-            <p class="textforside">
+            <p class="textforside text-center text-md-start">
             VeteranHaven <br>
             Brovej 13b - Slots Bjergby <br>
             4200 Slagelse <br>
