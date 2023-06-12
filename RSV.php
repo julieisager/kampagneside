@@ -35,11 +35,38 @@
             <div class="textforside" >
                 <h4 id="RSVnav">Registreret Socialøkonomisk Virksomhed</h4>
                 <br>
-                <div class="">
-                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp;Som en socialøkonomisk virksomhed prioriterer VteranHaven social værdiskabelse over økonmisk profitmaksimering. <br><br>
-                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp;VeteranHavens social mission er integreret i hele deres forretningsmodel. De kanalisere oversuddet fra deres aktiviteter til at finansiere og udvide deres sociale programmer og tjenester.<br><br>
-                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp;VeteranHaven fungerer som en inspirerende model for, hvordan socialt ansvar og økonomisk bæredygtighed kan gå hånd i hånd. De viser, at det er muligt at drive en virksomhed samtidig med at man gør en positiv forskel i samfundet og støtter sårbare grupper.
-                </div>
+                    <div  style="width: 20px; float: left">
+                        <i class="fa-solid fa-arrow-right h4"></i>
+                    </div>
+
+                    <div class="hvemligetekst mb-2">
+                        Som en socialøkonomisk virksomhed prioriterer VeteranHaven social værdiskabelse over økonmisk profitmaksimering. <br><br>
+                    </div>
+
+                    <div style="clear: both">
+                    </div>
+                            <br>
+                    <div  style="width: 20px; float: left">
+                        <i class="fa-solid fa-arrow-right h4"></i>
+                    </div>
+
+                    <div class="hvemligetekst mb-2">
+                        VeteranHavens social mission er integreret i hele deres forretningsmodel. De kanalisere oversuddet fra deres aktiviteter til at finansiere og udvide deres sociale programmer og tjenester.<br><br>
+                    </div>
+
+                    <div style="clear: both">
+                    </div>
+                            <br>
+                    <div  style="width: 20px; float: left">
+                        <i class="fa-solid fa-arrow-right h4"></i>
+                    </div>
+
+                    <div class="hvemligetekst mb-2">
+                        VeteranHaven fungerer som en inspirerende model for, hvordan socialt ansvar og økonomisk bæredygtighed kan gå hånd i hånd. De viser, at det er muligt at drive en virksomhed samtidig med at man gør en positiv forskel i samfundet og støtter sårbare grupper.
+                    </div>
+
+                    <div style="clear: both">
+                    </div>
             </div>
         </div>
         <div class="col-md-2 d-flex align-items-center justify-content-center"
@@ -51,8 +78,8 @@
             background-color: rgb(168,227,113);"
         ></div>
 
-        <div class="col-md-4 bg-baggrund mt-5 mb-5">
-            <div class=" mx-sm-5 my-sm-5 my-md-3 mx-md-3">
+        <div class="col-md-4 bg-baggrund mt-5 mb-5 slagelsekom">
+            <div class=" mx-sm-5 my-sm-5 my-md-3 mx-md-3 flag">
             <img class="card-img" src="image/SLA_logo_10x8.gif" alt="logo">
             </div>
         </div>
@@ -70,13 +97,13 @@
 
 <div class="container-fluid bg-light">
     <div class="row">
-        <div class="col-12 col-md-6 mb-3 mt-3 d-flex justify-content-center">
+        <div class="col-md-5 slagelsekom mb-3 mt-3 d-flex justify-content-center">
             <img class="card-img" src="image/Verden.png" alt="verden">
         </div>
 
 
 
-        <div class="col-12 col-md-6 d-flex mb-3 mt-3 justify-content-center">
+        <div class="col-12 col-md-7 d-flex mb-3 mt-3 justify-content-center">
             <div class="card bg-white" style="border: none">
                 <div class="card-body textforside">
                     Her hos VeteranHaven, har vi tydelige krav til os selv og benytterne.

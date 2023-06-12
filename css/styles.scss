@@ -234,7 +234,7 @@ body{
 	font-size: xxx-large;
 }
 
-#flag{
+#flag, .slagelsekom{
 	@media #{$mobil}{
 		display: none;
 	}
@@ -306,19 +306,19 @@ body{
 		float: left;
 		margin: 0 10px;
 	}
-	@media(min-width: 622px) and (max-width: 750px){
+	@media(min-width: 622px) and (max-width: 768px){
 		width: 500px;
 		float: left;
 		margin: 0 10px;
 	}
 	@media(min-width: 768px) and (max-width: 900px){
-		width: 305px;
+		width: 302px;
 		float: left;
 		margin: 0 10px;
 	}
 
 	@media(min-width:901px) and (max-width:1200px){
-		width: 370px;
+		width: 367px;
 		float: left;
 		margin: 0 10px;
 	}
