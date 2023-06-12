@@ -31,7 +31,7 @@
 	<div class="row">
 
 		<div class="col-md-4 p-3 textforside bg-gron d-flex align-items-center justify-content-center">
-            <div class=" mt-3  mx-4" >
+            <div class="mt-2 mb-2" >
             <p class="fw-bold fs-5"> Få et glimt af VeteranHaven </p>
 
                 VeteranHaven ligger i Slagelse kommune. De er et tilbud til folk med besvær i hverdagen, veteraner og alt derimellem.
