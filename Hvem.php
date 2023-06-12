@@ -29,30 +29,64 @@
     <div class="row">
         <div class="col-12 col-md-6 text-center d-flex justify-content-center">
         </div>
-        <div class="col-12 col-md-6 mt-3 text-center d-flex justify-content-center">
+        <div class="col-12 col-md-6 mt-3 mb-3 text-center d-flex justify-content-center">
             <h3 id="Veteranhaven">Hvem er VeteranHaven</h3>
         </div>
 
         <div class="col-12 col-md-6">
-            <div class=" mx-sm-5 my-sm-5 my-md-0 mx-md-0">
+            <div class=" mx-sm-5 my-sm-4 my-md-0 mx-md-4">
             <img src="image/veteranhaven/Rene.png" class="card-img" alt="rene">
             </div>
         </div>
 
-        <div class="col-12 col-md-6 text-center">
-            <p class="text-start mt-4">
+        <div class="col-12 col-md-6">
+
+            <div  style="width: 20px; float: left">
                 <i class="fa-solid fa-arrow-right h4"></i>
+            </div>
+
+            <div class="hvemligetekst mb-2">
                 VeteranHaven er en organisation dedikeret til at støtte og hjælpe veteraner og andre personer med deres udfordringer.
-                <br><br>
+            </div>
+
+        <div style="clear: both">
+        </div>
+        <div>
+                <br>
+            <div  style="width: 20px; float: left">
                 <i class="fa-solid fa-arrow-right h4"></i>
+            </div>
+
+            <div class="hvemligetekst mb-2">
                 Organisationen tilbyder et trygt og støttende miljø, hvor brugerne kan samles og dele deres erfaringer.
-                <br><br>
+            </div>
+        </div>
+        <div style="clear: both">
+        </div>
+        <div>
+                <br>
+            <div  style="width: 20px; float: left">
                 <i class="fa-solid fa-arrow-right h4"></i>
+            </div>
+            <div class="hvemligetekst mb-2">
                 VeteranHaven giver også adgang til terapeutiske aktiviteter og programmer, der er designet til at styrke brugernes velvære og vej tilbage i livet.
-                <br><br>
+            </div>
+        </div>
+        <div style="clear: both">
+        </div>
+        <div>
+                <br>
+            <div  style="width: 20px; float: left">
                 <i class="fa-solid fa-arrow-right h4"></i>
+            </div>
+            <div class="hvemligetekst mb-2">
                 Målet med VeteranHaven er at skabe et netværk, hvor brugerne kan finde støtte, sociale forbindelser og ressourcer til at håndtere udfordringer.
-            </p>
+            </div>
+        </div>
+        <div style="clear: both">
+        </div>
+        <div>
+        </div>
 
         </div>
     </div>
