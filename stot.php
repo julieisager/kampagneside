@@ -85,7 +85,7 @@
 
         <div class="col-12 col-lg-6 d-flex justify-content-center">
 
-            <div class="card mb-3" >
+            <div class="card mb-3 card-hover" >
                 <div class="row g-0">
 
                     <div class="col-sm-8">
@@ -109,7 +109,7 @@
 
         <div class="col-12 col-lg-6 d-flex justify-content-center">
 
-                <div class="card mb-3">
+                <div class="card mb-3 card-hover">
                 <div class="row g-0">
 
                     <div class="col-sm-8">
