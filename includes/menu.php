@@ -16,25 +16,12 @@
             <ul class="navheight navbar-nav me-auto mb-2 mb-lg-0 col justify-content-end align-content-center">
 
 
-                <li class="nav-item dropdown mx-3 d-flex align-items-center">
-                    <a class="nav-link active" href="Hvem.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Hvem er vi
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="Hvem.php #Veteranhaven">Veteranhaven</a></li>
-                        <li><a class="dropdown-item" href="Hvem.php #Projekter">Projekter</a></li>
-                        <li><a class="dropdown-item" href="Hvem.php #hjemmeside">Hjemmesidee</a></li>
-                    </ul>
+                <li class="nav-item mx-3 d-flex align-items-center">
+                    <a class="nav-link active" aria-current="page" href="Hvem.php">Hvem er vi</a>
                 </li>
 
-                <li class="nav-item dropdown mx-3 d-flex align-items-center">
-                    <a class="nav-link active" href="RSV.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        RSV
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="RSV.php #RSVnav">Hvad er RSV?</a></li>
-                        <li><a class="dropdown-item" href="RSV.php #slagelse">Slagelse kommune</a></li>
-                    </ul>
+                <li class="nav-item mx-3 d-flex align-items-center">
+                    <a class="nav-link active" aria-current="page" href="RSV.php">RSV</a>
                 </li>
 
                 <li class="nav-item mx-3 lilla d-flex align-items-center" id="firkant">
