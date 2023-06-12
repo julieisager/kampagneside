@@ -29,15 +29,17 @@
 <div class="container-fluid bg-baggrund" >
 
 	<div class="row">
-		<div class="col-md-4 p-3 textforside bg-gron">
 
-                <p class="fw-bold fs-5">Få et glimt af VeteranHaven</p>
-                <br>
+		<div class="col-md-4 p-3 textforside bg-gron"  >
+
+            <p class="fw-bold fs-5"> Få et glimt af VeteranHaven </p>
+
                 VeteranHaven ligger i Slagelse kommune. De er et tilbud til folk med besvær i hverdagen, veteraner og alt derimellem.
                 <br><br>
                 Her på siden vil du finde alt nødvendig information omkring haven. Men inden du når så langt, har vi her en video som fortæller meget mere.
 
         </div>
+
         <div class="  col-md-2 d-flex align-items-center justify-content-center"
              style="
             height: auto;
@@ -64,14 +66,41 @@
 
 		<div class="col-12 col-md-6 mb-3 mt-3 d-flex align-items-center justify-content-center" style="position: relative">
             <div class="ratio ratio-16x9" id="overtekst">
-            <div class="card">
+            <div class="card mh-100">
 				<div class="card-body textforside">
 					VeteranHaven er en socialøkonomisk virksom hed.<br>
                     Det betyder blandt andet at:<br><br>
                     <p class="lh-lg">
-                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp; Vi skal være uafhængige af det offentligt. <br>
-                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp; Vi har et socialt formål, som gavner samfundet.<br>
-                    <i class="fa-solid fa-arrow-right h4"></i> &nbsp; Vi skal være erhvervsdrivende ved at tilbyde ydelser og/eller sælge varer, og heraf tjene den primære indkomst.
+                    <div>
+                        <div  style="width: 20px; float: left">
+                            <i class="fa-solid fa-arrow-right h4"></i>
+                        </div>
+                        <div  style="width: 200px; float: left">
+                            Vi skal være uafhængige af det offentligt.
+                        </div>
+                    </div>
+                    <div style="clear: both">
+                    </div>
+                    <div>
+                        <div  style="width: 20px; float: left">
+                            <i class="fa-solid fa-arrow-right h4"></i>
+                        </div>
+                        <div  style="width: 200px; float: left">
+                            Vi har et socialt formål, som gavner samfundet.
+                        </div>
+                    </div>
+                    <div style="clear: both">
+                    </div>
+                    <div>
+                        <div  style="width: 20px; float: left">
+                            <i class="fa-solid fa-arrow-right h4"></i>
+                        </div>
+                        <div  style="width: 200px; float: left">
+                            Vi skal være erhvervsdrivende ved at tilbyde ydelser og/eller sælge varer, og heraf tjene den primære indkomst.
+                        </div>
+                    </div>
+                    <div style="clear: both">
+                    </div>
                     </p>
                 </div>
 			</div>

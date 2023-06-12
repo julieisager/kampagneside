@@ -33,9 +33,10 @@
             <h3 id="Veteranhaven">Hvem er VeteranHaven</h3>
         </div>
 
-        <div class="col-12 col-md-6">
-            <img src="image/veteranhaven/Rene.png" class="card-img-top" alt="rene">
+        <div class="col-6 col-md-6 d-flex justify-content-center">
+            <img src="image/veteranhaven/Rene.png" class="card-img" alt="rene">
         </div>
+
         <div class="col-12 col-md-6 text-center">
             <p class="text-start mt-4">
                 <i class="fa-solid fa-arrow-right h4"></i>
