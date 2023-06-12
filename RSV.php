@@ -30,12 +30,11 @@
 
 
 <div class="container-fluid bg-baggrund" >
-
     <div class="row">
-        <div class=" col-md-5 bg-gron d-flex align-items-center justify-content-center">
+        <div class=" col-md-6 bg-gron p-3 d-flex align-items-center justify-content-center">
             <div class="textforside" >
                 <h4 id="RSVnav">Registreret Socialøkonomisk Virksomhed</h4>
-                <br><br>
+                <br>
                 <div class="">
                     <i class="fa-solid fa-arrow-right h4"></i> &nbsp;Som en socialøkonomisk virksomhed prioriterer VteranHaven social værdiskabelse over økonmisk profitmaksimering. <br><br>
                     <i class="fa-solid fa-arrow-right h4"></i> &nbsp;VeteranHavens social mission er integreret i hele deres forretningsmodel. De kanalisere oversuddet fra deres aktiviteter til at finansiere og udvide deres sociale programmer og tjenester.<br><br>
@@ -52,8 +51,10 @@
             background-color: rgb(168,227,113);"
         ></div>
 
-        <div class="col-md-5 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
-            <img class="ratio-1x1 ratio" src="image/SLA_logo_10x8.gif" alt="logo">
+        <div class="col-md-4 bg-baggrund mt-5 mb-5">
+            <div class=" mx-sm-5 my-sm-5 my-md-3 mx-md-3">
+            <img class="card-img" src="image/SLA_logo_10x8.gif" alt="logo">
+            </div>
         </div>
     </div>
 </div>

@@ -33,8 +33,10 @@
             <h3 id="Veteranhaven">Hvem er VeteranHaven</h3>
         </div>
 
-        <div class="col-6 col-md-6 d-flex justify-content-center">
+        <div class="col-12 col-md-6">
+            <div class=" mx-sm-5 my-sm-5 my-md-0 mx-md-0">
             <img src="image/veteranhaven/Rene.png" class="card-img" alt="rene">
+            </div>
         </div>
 
         <div class="col-12 col-md-6 text-center">
@@ -125,7 +127,6 @@
                             </div>
                         </div>
                     </div>
-
 
                 </div>
             </div>
