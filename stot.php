@@ -27,10 +27,10 @@
 <?php include "includes/menu.php";?>
 
 
-<div class="container-fluid bg-gron p-3">
+<div class="container-fluid bg-gron p-3 ">
     <div class="row">
-        <div class="col d-flex justify-content-center">
-            <img src="..." alt="flag">
+        <div class="col d-flex justify-content-center mt-4 mb-4 mx-5 my-5 ratio ratio-21x9">
+            <img src="image/veteranhaven/billedeveteranhaven.png" alt="flag">
         </div>
     </div>
 </div>
@@ -47,25 +47,22 @@
 
 <div class="container-fluid bg-baggrund p-3">
     <div class="row">
-        <div class="col text-center">
+        <div class="col-7">
 
-            Du kan hjælpe ved arrangementer og aktiviteter i haven
-            <br><br>
+            <p class="fw-bold">Du kan hjælpe ved arrangementer og aktiviteter i haven.</p>
             Vær med til at købe ind, stå for salg af kaffe og kage og ellers hjælpe, hvor der må være brug for det.
             <br><br>
-            Hjælpe med at uddele vores julehjælp til veteranfamilier
-            <br><br>
+            <p class="fw-bold">Hjælpe med at uddele vores julehjælp til veteranfamilier</p>
             Pakke og bringe ud til de glade modtagere.
             <br><br>
-            Vise besøgende rundt i haven
-            <br><br>
+            <p class="fw-bold">Vise besøgende rundt i haven</p>
             Svare på spørgsmål og fortælle om VeteranHaven som have og forening.
             <br><br>
             Deltage i arrangementer, der skaber opmærksomhed om VeteranHaven
             <br><br>
-            Og vigtigst af alt.
-            <br><br>
-            Bidrage med dit humør og gåpåmod.
+            <p class="fw-bold">Og vigtigst af alt.
+            <br>
+            Bidrage med dit humør og gåpåmod.</p>
 
         </div>
     </div>
@@ -84,20 +81,21 @@
 
         <div class="col-12 col-md-6 d-flex justify-content-center">
 
-            <div class="card mb-3" style="max-width: 540px;">
+            <div class="card mb-3" >
                 <div class="row g-0">
 
-                    <div class="col-md-8">
+                    <div class="col-md-7">
+
                         <div class="card-body">
                             <h5 class="card-title line2">Bliv en VeteranHave ven</h5>
                             <p class="card-text">Som ven hjælper du stedet ved at deltage i fælleskabet og bidrager til hverdagens opgaver.</p>
                             <a href="https://www.veteranhaven.dk/vhv" class="">Læs mere</a>
                         </div>
+
                     </div>
 
-
-                    <div class="col-md-4">
-                        <img src="image/veteranhaven/vandVH.png" class="cardbillede img-fluid rounded-start" alt="vandVH">
+                    <div class="col-md-5 d-flex justify-content-end">
+                        <img src="image/veteranhaven/vandVH.png" class="img-fluid rounded-start" alt="vandVH">
                     </div>
 
                 </div>
@@ -119,7 +117,7 @@
                     </div>
 
                     <div class="col-md-4">
-                        <img src="image/veteranhaven/veteranhaven%20oppefra.png" class="cardbillede img-fluid rounded-start" alt="VHoppefra">
+                        <img src="image/veteranhaven/veteranhaven%20oppefra.png" class="img-fluid rounded-start" alt="VHoppefra">
                     </div>
 
                 </div>

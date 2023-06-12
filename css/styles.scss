@@ -213,24 +213,6 @@ body{
 }
 
 
-.cardbillede{
-	@media #{$mobil}{
-		max-height: 300px;
-		width: auto;
-		display: flex;
-
-	}
-	@media #{$tablet}{
-		min-height: 120px;
-		max-height: 180px;
-		width: auto;
-	}
-	@media #{$computer}{
-		min-height: 180px;
-		width: auto;
-	}
-}
-
 
 #over, #overtekst{
 	@media #{$tablet, $computer}{
