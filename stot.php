@@ -79,12 +79,12 @@
 <div class="container-fluid bg-light d-flex justify-content-center">
     <div class="row">
 
-        <div class="col-12 col-md-6 d-flex justify-content-center">
+        <div class="col-12 col-lg-6 d-flex justify-content-center">
 
             <div class="card mb-3" >
                 <div class="row g-0">
 
-                    <div class="col-md-7">
+                    <div class="col-sm-8">
 
                         <div class="card-body">
                             <h5 class="card-title line2">Bliv en VeteranHave ven</h5>
@@ -94,7 +94,7 @@
 
                     </div>
 
-                    <div class="col-md-5 d-flex justify-content-end">
+                    <div class="col-5 col-sm-4 ">
                         <img src="image/veteranhaven/vandVH.png" class="img-fluid rounded-start" alt="vandVH">
                     </div>
 
@@ -103,12 +103,12 @@
 
         </div>
 
-        <div class="col-12 col-md-6 d-flex justify-content-center">
+        <div class="col-12 col-lg-6 d-flex justify-content-center">
 
-                <div class="card mb-3" style="max-width: 540px;">
+                <div class="card mb-3">
                 <div class="row g-0">
 
-                    <div class="col-md-8">
+                    <div class="col-sm-8">
                         <div class="card-body">
                             <h5 class="card-title line2">Støt vores projekter</h5>
                             <p class="card-text">Stedet finansiseres af frivillige midler. Dette kan ske gennem legater, fonde eller bidrag fra private og virksomheder.</p>
@@ -116,7 +116,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-5 col-sm-4 ">
                         <img src="image/veteranhaven/veteranhaven%20oppefra.png" class="img-fluid rounded-start" alt="VHoppefra">
                     </div>
 
@@ -136,15 +136,12 @@
     </div>
 </div>
 
-<div class="container-fluid bg-white mb-5 mt-3 d-flex justify-content-center">
+<div class="container-fluid bg-white mb-4 mt-3 d-flex justify-content-center">
     <div class="row">
-            <img src="image/Sponsor/velliv-foreningen.png" alt="velliv" class="ratio col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
-
-            <img src="image/Sponsor/k.juby.png" alt="kjuby" class="ratio col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
-
-            <img src="image/Sponsor/velux_fonden.png" alt="velux" class="ratio col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
-
-            <img src="image/Sponsor/Ellegaard.png" alt="ellagaard" class="ratio col-12 col-md-6 col-lg-3 mx-3 my-3" style="width: auto; height: 50px">
+        <div class="col-12 col-lg-3 d-flex justify-content-center"><img src="image/Sponsor/velliv-foreningen.png" alt="velliv" class="ratio mx-3 my-3" style="width: auto; max-height: 50px"></div>
+        <div class="col-12 col-lg-3 d-flex justify-content-center"><img src="image/Sponsor/k.juby.png" alt="kjuby" class="ratio mx-3 my-3" style="width: auto; max-height: 55px"></div>
+        <div class="col-12 col-lg-3 d-flex justify-content-center"><img src="image/Sponsor/velux_fonden.png" alt="velux" class="ratio mx-3 my-3" style="width: auto; max-height: 50px"></div>
+        <div class="col-12 col-lg-3 d-flex justify-content-center"><img src="image/Sponsor/Ellegaard.png" alt="ellagaard" class="ratio mx-3 my-3" style="width: auto; max-height: 45px"></div>
 
     </div>
 </div>

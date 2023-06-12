@@ -2,24 +2,26 @@
 <div class="container-fluid bg-baggrund p-4">
     <div class="row">
         <div class="col-12 col-md-4 line mb-3 text-md-start text-sm-center text-xs-center">
-            <h5 class="text-center">Vores oplysninger</h5>
+            <h5 class="text-center mb-3">Vores oplysninger</h5>
+            <p class="textforside">
             VeteranHaven <br>
             Brovej 13b - Slots Bjergby <br>
             4200 Slagelse <br>
-            <p></p>
+            <br>
             Tlf: 52 40 04 55 <br>
             adminstration@veteranhaven.dk <br>
             CVR-nr: 34746567 <br>
+            </p>
         </div>
 
         <div class="col-12 col-md-5 line mb-3 text-center ">
             <h5>Genveje</h5>
 
-            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="" class="btn">Søgning</a></div>
-            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="RSV.php" class="btn">Socialøkonomisk Virksomhed</a></div>
-            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="stot.php" class="btn">Støt os</a></div>
-            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="Hvem.php" class="btn">Vores Projekter</a></div>
-            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="https://www.veteranhaven.dk/" class="btn">VeteranHaven.dk</a></div>
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="" class="btn textforside">Søgning</a></div>
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="RSV.php" class="btn textforside">Socialøkonomisk Virksomhed</a></div>
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="stot.php" class="btn textforside">Støt os</a></div>
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="Hvem.php" class="btn textforside">Vores Projekter</a></div>
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="https://www.veteranhaven.dk/" class="btn textforside">VeteranHaven.dk</a></div>
 
         </div>
 
@@ -40,7 +42,7 @@
             Find os her
         </div>
 
-        <div class="col  icons d-flex align-items-center">
+        <div class="col icons d-flex align-items-center">
             <a href="https://www.facebook.com/VeteranHaven" style="color: #4d5154">
                 <i class="fa-brands fa-square-facebook"></i>
             </a>
