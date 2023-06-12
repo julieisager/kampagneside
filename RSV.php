@@ -53,42 +53,40 @@
         ></div>
 
         <div class="col-md-5 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
-            <img class="ratio-1x1 ratio" src="image/SLA_logo_10x8.gif">
+            <img class="ratio-1x1 ratio" src="image/SLA_logo_10x8.gif" alt="logo">
         </div>
     </div>
 </div>
 
-
-
-
-<div class="container-fluid bg-white">
+<div class="container-fluid bg-light">
     <div class="row">
-        <div class="col mb-3 mt-3 d-flex justify-content-end">
+        <div class="col mb-3 mt-3 d-flex justify-content-center justify-content-md-end">
             <h4 id="slagelse">Environmental - Social - Governance</h4>
         </div>
     </div>
 </div>
 
-<div class="container-fluid bg-white">
-    <div class="row">
-        <div class="col mb-3 mt-3 d-flex justify-content-end">
-           <img src="image/Verden.png" alt="verden">
-        </div>
-    </div>
-</div>
 
-<div class="container-fluid bg-white">
+<div class="container-fluid bg-light">
     <div class="row">
-        <div class="col-12 d-flex justify-content-end align-content-end mb-3 mt-3">
-            <div class="card w-75">
+        <div class="col-12 col-md-6 mb-3 mt-3 d-flex justify-content-center">
+            <img class="card-img" src="image/Verden.png" alt="verden">
+        </div>
+
+
+
+        <div class="col-12 col-md-6 d-flex mb-3 mt-3 justify-content-center">
+            <div class="card bg-white" style="border: none">
                 <div class="card-body textforside">
-                    Her hos VeteranHaven driver vi en socialøkonomisk vorksomhed, og det gør vi for at kunne fortsætte med vores arbejde!<br><br>
-                    Vores primære formål er at lave en arbejdsplads, som tager hensyn til alle, og deres eventuelle udfordringer. <br>Som en socialøkonomisk virksomhed har man til formål at skabe en positiv virkning i samfundet. <br>Vi tjener penge på almindelige markedsvilkår ligesom alle andre, men hvis der kommer et overskud, skal dette geninvesteres.
+                    Her hos VeteranHaven, har vi tydelige krav til os selv og benytterne.
+                    <br><br>
+                    Vores regler og værdier inkluderer at vi skal være åbne overfor alle, ligegyldig køn, handicap, etnicitet, og hvad man nu engang bringer med sig i sin rygsæk. Vi møder alle i øjenhøjde, for vi er alle forskellige, og det omfavner vi herude.
+                    <br><br>
+                    Vi sætter stor pris på naturen, og vi skal selvfølgelig gøre hvad vi kan, for at passe på den. Det gør vi ved at genbruge alle de ting, som der nu engang kan genbruges. Vi modtager også gerne donationer, så vi kan give det nyt liv herude.
                 </div>
             </div>
         </div>
     </div>
-</div>
 
 
 <?php include "includes/footer.php";?>
