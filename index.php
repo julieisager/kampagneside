@@ -30,6 +30,8 @@
 
 	<div class="row">
 		<div class="col-md-4 p-3 textforside bg-gron d-flex align-items-center justify-content-center">
+                Få et glimt af VeteranHaven
+                <br>
                 VeteranHaven ligger i Slagelse kommune. De er et tilbud til folk med besvær i hverdagen, veteraner og alt derimellem.
                 <br><br>
                 Her på siden vil du finde alt nødvendig information omkring haven. Men inden du når så langt, har vi her en video som fortæller meget mere.
@@ -55,7 +57,7 @@
 <div class="container-fluid bg-white p-3">
 	<div class="row">
 		<div class="col-12 col-md-6 d-flex justify-content-center align-items-center ratio-16x9">
-            <img src="image/veteranhaven/veteranhaveforside.png" alt="billed">
+            <img class="card-img" src="image/vhbillede.png" alt="vhbillede">
 		</div>
 		<div class="col-12 col-md-6 mb-3 mt-3 d-flex align-items-center justify-content-center" style="position: relative">
 			<div class="card" id="overtekst">

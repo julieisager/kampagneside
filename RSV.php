@@ -63,8 +63,16 @@
 
 <div class="container-fluid bg-white">
     <div class="row">
-        <div class="col mb-3 mt-3">
-            <h4 id="slagelse">Slagelse Kommune</h4>
+        <div class="col mb-3 mt-3 d-flex justify-content-end">
+            <h4 id="slagelse">Environmental - Social - Governance</h4>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid bg-white">
+    <div class="row">
+        <div class="col mb-3 mt-3 d-flex justify-content-end">
+           <img src="image/Verden.png" alt="verden">
         </div>
     </div>
 </div>
