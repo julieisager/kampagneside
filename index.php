@@ -47,7 +47,7 @@
             background-color: rgb(168,227,113);"
         ></div>
 
-		<div class="col-md-6 bg-baggrund mt-5 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
+		<div class="col-md-6 bg-baggrund mt-4 mb-5 d-flex align-items-center justify-content-center" style="position: relative">
 
                 <div class="ratio ratio-16x9" id="over">
                 <iframe src="https://www.youtube.com/embed/HeAW3uTwXYg" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -62,7 +62,7 @@
 		<div class="col-12 col-md-6 d-flex justify-content-center align-items-center ratio-16x9">
             <img src="image/veteranhaven/veteranhaveforside.png">
 		</div>
-		<div class="col-12 col-md-6 mb-3 d-flex align-items-center justify-content-center" style="position: relative">
+		<div class="col-12 col-md-6 mb-3 mt-3 d-flex align-items-center justify-content-center" style="position: relative">
 			<div class="card" id="overtekst">
 				<div class="card-body textforside">
 					VeteranHaven er en socialøkonomisk virksom hed.<br>
