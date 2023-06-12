@@ -46,7 +46,7 @@
             </div>
 
             <div class="hvemligetekst mb-2">
-                VeteranHaven er en organisation dedikeret til at støtte og hjælpe veteraner og andre personer med deres udfordringer.
+                &nbsp;VeteranHaven er en organisation dedikeret til at støtte og hjælpe veteraner og andre personer med deres udfordringer.
             </div>
 
         <div style="clear: both">
@@ -58,7 +58,7 @@
             </div>
 
             <div class="hvemligetekst mb-2">
-                Organisationen tilbyder et trygt og støttende miljø, hvor brugerne kan samles og dele deres erfaringer.
+                &nbsp;Organisationen tilbyder et trygt og støttende miljø, hvor brugerne kan samles og dele deres erfaringer.
             </div>
         </div>
         <div style="clear: both">
@@ -69,7 +69,7 @@
                 <i class="fa-solid fa-arrow-right h4"></i>
             </div>
             <div class="hvemligetekst mb-2">
-                VeteranHaven giver også adgang til terapeutiske aktiviteter og programmer, der er designet til at styrke brugernes velvære og vej tilbage i livet.
+                &nbsp;VeteranHaven giver også adgang til terapeutiske aktiviteter og programmer, der er designet til at styrke brugernes velvære og vej tilbage i livet.
             </div>
         </div>
         <div style="clear: both">
@@ -80,7 +80,7 @@
                 <i class="fa-solid fa-arrow-right h4"></i>
             </div>
             <div class="hvemligetekst mb-2">
-                Målet med VeteranHaven er at skabe et netværk, hvor brugerne kan finde støtte, sociale forbindelser og ressourcer til at håndtere udfordringer.
+                &nbsp;Målet med VeteranHaven er at skabe et netværk, hvor brugerne kan finde støtte, sociale forbindelser og ressourcer til at håndtere udfordringer.
             </div>
         </div>
         <div style="clear: both">

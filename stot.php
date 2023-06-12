@@ -27,11 +27,12 @@
 <?php include "includes/menu.php";?>
 
 
-<div class="container-fluid bg-gron p-3 ">
+<div class="container-fluid bg-gron p-3">
     <div class="row">
-        <div class="col d-flex justify-content-center mt-4 mb-4 mx-5 my-5 ratio ratio-21x9">
-            <img src="image/veteranhaven/billedeveteranhaven.png" alt="flag">
+        <div class="col-6 col-md-4">
+            <img class="d-flex justify-content-center" src="image/vh.png" alt="flag" style="max-height: 400px">
         </div>
+
     </div>
 </div>
 
@@ -46,7 +47,7 @@
 
 
 <div class="container-fluid bg-baggrund p-3">
-    <div class="row">
+    <div class="row d-flex align-content-center">
         <div class="col-12 col-md-8">
 
             <p class="fw-bold">Du kan hjælpe ved arrangementer og aktiviteter i haven.</p>

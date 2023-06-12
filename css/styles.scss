@@ -234,7 +234,23 @@ body{
 	font-size: xxx-large;
 }
 
-#flag, .slagelsekom{
+#flag{
+	@media #{$mobil}{
+		display: none;
+	}
+	@media #{$tablet}{
+		display: flex;
+		align-content: center;
+		max-height: 300px;
+		width: 300px;
+	}
+	@media #{$computer}{
+		display: block;
+
+	}
+}
+
+.slagelsekom{
 	@media #{$mobil}{
 		display: none;
 	}
@@ -295,37 +311,25 @@ body{
 }
 
 .hvemligetekst{
-	@media (min-width: 0) and (max-width: 400px){
+
+	@media #{$mobil}{
 		width: 300px;
 		float: left;
 		margin: 0 10px;
 	}
+	@media #{$tablet}{
+		width: 280px;
+		float: left;
+		margin: 0 10px;
 
-	@media (min-width: 401px) and (max-width: 621px){
+	}
+	@media #{$computer}{
 		width: 420px;
 		float: left;
 		margin: 0 10px;
-	}
-	@media(min-width: 622px) and (max-width: 768px){
-		width: 500px;
-		float: left;
-		margin: 0 10px;
-	}
-	@media(min-width: 768px) and (max-width: 900px){
-		width: 302px;
-		float: left;
-		margin: 0 10px;
+
 	}
 
-	@media(min-width:901px) and (max-width:1200px){
-		width: 367px;
-		float: left;
-		margin: 0 10px;
-	}
 
-	@media(min-width:1201px) and (max-width:1400px){
-		width: 470px;
-		float: left;
-		margin: 0 10px;
-	}
+
 }
