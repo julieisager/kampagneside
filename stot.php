@@ -27,12 +27,11 @@
 <?php include "includes/menu.php";?>
 
 
-<div class="container-fluid bg-gron p-3">
+<div class="container-fluid bg-gron p-3 d-flex justify-content-center">
     <div class="row">
         <div class="col-6 col-md-4">
-            <img class="d-flex justify-content-center" src="image/vh.png" alt="flag" style="max-height: 400px">
+            <img id="stotforside" src="image/vh.png" alt="flag" style="max-height: 400px;">
         </div>
-
     </div>
 </div>
 

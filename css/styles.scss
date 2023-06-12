@@ -250,6 +250,17 @@ body{
 	}
 }
 
+#stotforside{
+	@media #{$mobil}{
+		height: auto;
+		max-width: 600px;
+	}
+	@media #{$tablet}{
+		height: auto;
+		max-width: 800px;
+	}
+}
+
 .slagelsekom{
 	@media #{$mobil}{
 		display: none;
