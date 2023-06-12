@@ -32,7 +32,7 @@
 <div class="container-fluid bg-baggrund" >
     <div class="row">
         <div class=" col-md-6 bg-gron p-3 d-flex align-items-center justify-content-center">
-            <div class="textforside" >
+            <div class="textforside mt-2" >
                 <h4 id="RSVnav">Registreret Socialøkonomisk Virksomhed</h4>
                 <br>
                     <div  style="width: 20px; float: left">
@@ -88,7 +88,7 @@
 
 <div class="container-fluid bg-light">
     <div class="row">
-        <div class="col mb-3 mt-3 d-flex justify-content-center justify-content-md-end">
+        <div class="col p-3 mt-2 d-flex justify-content-center justify-content-md-end">
             <h4 id="slagelse">Environmental - Social - Governance</h4>
         </div>
     </div>
@@ -97,13 +97,13 @@
 
 <div class="container-fluid bg-light">
     <div class="row">
-        <div class="col-md-5 slagelsekom mb-3 mt-3 d-flex justify-content-center">
-            <img class="card-img" src="image/Verden.png" alt="verden">
+        <div class="col-md-5 d-flex justify-content-center">
+            <img class="card-img slagelsekom" src="image/Verden.png" alt="verden">
         </div>
 
 
 
-        <div class="col-12 col-md-7 d-flex mb-3 mt-3 justify-content-center">
+        <div class="col-12 col-md-7 d-flex mb-3 mt-1 justify-content-center">
             <div class="card bg-white" style="border: none">
                 <div class="card-body textforside">
                     Her hos VeteranHaven, har vi tydelige krav til os selv og benytterne.
