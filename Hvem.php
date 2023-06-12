@@ -116,10 +116,16 @@
         <div class="col-12 col-md-6 text-center mt-3">
             <div class="card-body">
                 <h5 class="card-title text-center mb-3">
-                    Læs mere på <a href="https://www.veteranhaven.dk/">VeteranHaven.dk</a>
+                    Stifteren bag VeteranHaven
                 </h5>
-                <p class="card-text bg-white p-3">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-            </div>
+                <p class="card-text text-start bg-white p-3">
+                    VeteranHaven blev stiftet i 2013 af René Pamperin.
+                    Grundet sin tid i krig, blev han slidt op og udviklede PTSD. Med sin erfaring og viden efter hans tid som soldat, har han skabt en arbejdsplads, der kan hjælpe veteraner og andre personer med at genopbygge deres liv.
+                    <br><br>
+                    Han oplevede selv, at det hjalp at gå ud i sin have og være kreativ, og dermed også stimulere hjernen.
+                    Af den grund, startede han VeteranHaven. Her er der plads til alle, uanset baggrund.
+                    Det er et frivilligt og gratis tilbud, og vi lægger stor vægt på fællesskabet og opbygningen af relationer
+                </p>
         </div>
     </div>
 </div>
