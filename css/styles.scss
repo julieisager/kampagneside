@@ -230,3 +230,17 @@ body{
 	font-size: xxx-large;
 }
 
+#flag{
+	@media #{$mobil}{
+		height: 70px;
+		width: auto;
+	}
+	@media #{$tablet}{
+		height: 80px;
+		width: auto;
+	}
+	@media #{$computer}{
+		height: 90px;
+		width: auto;
+	}
+}

@@ -47,7 +47,7 @@
 
 <div class="container-fluid bg-baggrund p-3">
     <div class="row">
-        <div class="col-7">
+        <div class="col-6 col-md-8">
 
             <p class="fw-bold">Du kan hjælpe ved arrangementer og aktiviteter i haven.</p>
             Vær med til at købe ind, stå for salg af kaffe og kage og ellers hjælpe, hvor der må være brug for det.
@@ -64,6 +64,10 @@
             <br>
             Bidrage med dit humør og gåpåmod.</p>
 
+        </div>
+
+        <div class="col-6 col-md-4 mt-4" id="flag">
+            <img src="image/flag.png" alt="flag">
         </div>
     </div>
 </div>
