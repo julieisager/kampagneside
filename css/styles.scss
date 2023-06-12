@@ -308,15 +308,18 @@ body{
 }
 
 #boxforside{
+
 	@media #{$mobil}{
 		height: 230px;
 	}
 	@media #{$tablet}{
-		height: 255px;
+		height: 280px;
+		top: -45px;
 
 	}
 	@media #{$computer}{
 		height: 300px;
+		top: 40px;
 
 	}
 }
