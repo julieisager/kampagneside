@@ -232,15 +232,15 @@ body{
 
 #flag{
 	@media #{$mobil}{
-		height: 70px;
+		height: 90px;
 		width: auto;
 	}
 	@media #{$tablet}{
-		height: 80px;
+		height: 90px;
 		width: auto;
 	}
 	@media #{$computer}{
-		height: 90px;
+		height: 100px;
 		width: auto;
 	}
 }
