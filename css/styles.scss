@@ -250,3 +250,22 @@ body{
 	background-color: rgb(168,227,113);
 	transition: background-color 0.3s ease-in-out;
 }
+
+.forsideligetekst{
+	@media #{$mobil}{
+		width: 300px;
+		float: left;
+		margin: 0 10px;
+	}
+	@media #{$tablet}{
+		width: 380px;
+		float: left;
+		margin: 0 10px;
+	}
+	@media #{$nav}{
+
+	}
+	@media #{$computer}{
+
+	}
+}
