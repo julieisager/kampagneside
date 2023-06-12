@@ -263,6 +263,12 @@ body{
 		margin: 0 10px;
 
 	}
+	@media(min-width: 768px) and (max-width: 900px){
+		width: 300px;
+		float: left;
+		margin: 0 10px;
+
+	}
 
 	@media(min-width:899px) and (max-width:1299px){
 		width: 300px;
@@ -281,19 +287,14 @@ body{
 	}
 }
 
-.forsideligetekst{
-	@media(min-width: 768px) and (max-width: 900px){
-		width: 300px;
-		float: left;
-		margin: 0 10px;
-		font-size: 13px;
+#boxforside{
+	@media #{$mobil}{
 
 	}
-}
+	@media #{$tablet}{
 
-.texttillige{
-	@media(min-width: 768px) and (max-width: 900px){
-		width: 370px;
-		font-size: 13px;
+	}
+	@media #{$computer}{
+
 	}
 }
