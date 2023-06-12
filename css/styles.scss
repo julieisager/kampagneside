@@ -261,40 +261,35 @@ body{
 		width: 500px;
 		float: left;
 		margin: 0 10px;
-
 	}
 	@media(min-width: 768px) and (max-width: 900px){
+		width: 270px;
+		float: left;
+	}
+
+	@media(min-width:901px) and (max-width:1200px){
 		width: 300px;
 		float: left;
 		margin: 0 10px;
-
 	}
 
-	@media(min-width:899px) and (max-width:1299px){
-		width: 300px;
+	@media(min-width:1201px) and (max-width:1400px){
+		width: 470px;
 		float: left;
 		margin: 0 10px;
-
-
-	}
-
-	@media(min-width:1300px) and (max-width:1400px){
-		width: 550px;
-		float: left;
-		margin: 0 10px;
-
-
 	}
 }
 
 #boxforside{
 	@media #{$mobil}{
-
+		height: 230px;
 	}
 	@media #{$tablet}{
+		height: 255px;
 
 	}
 	@media #{$computer}{
+		height: 300px;
 
 	}
 }

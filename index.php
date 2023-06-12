@@ -73,7 +73,7 @@
 
                     <div>
                         <div  style="width: 20px; float: left">
-                            <i class="fa-solid fa-arrow-right h4"></i>
+                            <i class="fa-solid fa-arrow-right h5"></i>
                         </div>
 
                         <div class="forsideligetekst">
@@ -84,7 +84,7 @@
                     </div>
                     <div>
                         <div  style="width: 20px; float: left">
-                            <i class="fa-solid fa-arrow-right h4"></i>
+                            <i class="fa-solid fa-arrow-right h5"></i>
                         </div>
                         <div class="forsideligetekst">
                             Vi har et socialt formål, som gavner samfundet.
@@ -94,7 +94,7 @@
                     </div>
                     <div>
                         <div  style="width: 20px; float: left;">
-                            <i class="fa-solid fa-arrow-right h4"></i>
+                            <i class="fa-solid fa-arrow-right h5"></i>
                         </div>
                         <div class="forsideligetekst">
                            Vi skal være erhvervsdrivende ved at tilbyde ydelser og/eller sælge varer, og heraf tjene den primære indkomst.
