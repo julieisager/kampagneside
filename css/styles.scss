@@ -252,20 +252,48 @@ body{
 }
 
 .forsideligetekst{
-	@media #{$mobil}{
+	@media (min-width: 0) and (max-width: 621px){
+		width: 360px;
+		float: left;
+		margin: 0 10px;
+	}
+	@media(min-width: 622px) and (max-width: 750px){
+		width: 500px;
+		float: left;
+		margin: 0 10px;
+
+	}
+
+	@media(min-width:899px) and (max-width:1299px){
 		width: 300px;
 		float: left;
 		margin: 0 10px;
+
+
 	}
-	@media #{$tablet}{
-		width: 380px;
+
+	@media(min-width:1300px) and (max-width:1400px){
+		width: 550px;
 		float: left;
 		margin: 0 10px;
-	}
-	@media #{$nav}{
+
 
 	}
-	@media #{$computer}{
+}
 
+.forsideligetekst{
+	@media(min-width: 768px) and (max-width: 900px){
+		width: 300px;
+		float: left;
+		margin: 0 10px;
+		font-size: 13px;
+
+	}
+}
+
+.texttillige{
+	@media(min-width: 768px) and (max-width: 900px){
+		width: 370px;
+		font-size: 13px;
 	}
 }

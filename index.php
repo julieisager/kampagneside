@@ -66,8 +66,8 @@
 
 		<div class="col-12 col-md-6 mb-3 mt-3 d-flex align-items-center justify-content-center" style="position: relative">
             <div class="ratio ratio-16x9" id="overtekst">
-            <div class="card mh-100">
-				<div class="card-body textforside">
+            <div class="card">
+				<div class="card-body textforside texttillige">
 					VeteranHaven er en socialøkonomisk virksom hed.<br>
                     Det betyder blandt andet at:<br><br>
 
