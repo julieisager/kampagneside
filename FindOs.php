@@ -49,7 +49,7 @@
 
         </div>
 
-        <div class="col-12 col-md-8 mb-3 mt-3">
+        <div class="col-12 col-md-8 mb-3 mt-3 d-flex justify-content-center">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1439.088977436417!2d11.318404957747566!3d55.37338596826414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464d612216960a41%3A0x5af98be9362fe0e0!2sVeteranhaven!5e1!3m2!1sda!2sdk!4v1685821112011!5m2!1sda!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
