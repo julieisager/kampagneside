@@ -39,7 +39,7 @@
             <p class="card-text"><small class="text-muted">Copyright 2023 VeteranHaven</small></p>
         </div>
         <div class="col-3 col-md-2 d-flex align-items-center" id="find">
-            Find os her
+            <a href="FindOs.php" style="color: #4d5154">Find os her</a>
         </div>
 
         <div class="col icons d-flex align-items-center">
