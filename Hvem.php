@@ -5,7 +5,7 @@
 
     <title>Hvem er vi</title>
 
-    <meta name="robots" content="noindex">
+    <meta name="robots" content="all">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
