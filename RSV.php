@@ -40,7 +40,7 @@
                     </div>
 
                     <div class="hvemligetekst mb-2">
-                        Som en socialøkonomisk virksomhed prioriterer VeteranHaven social værdiskabelse over økonmisk profitmaksimering. <br><br>
+                        Som en socialøkonomisk virksomhed prioriterer VeteranHaven social værdiskabelse over økonomisk profitmaksimering. <br><br>
                     </div>
 
                     <div style="clear: both">
@@ -51,7 +51,7 @@
                     </div>
 
                     <div class="hvemligetekst mb-2">
-                        VeteranHavens social mission er integreret i hele deres forretningsmodel. De kanalisere oversuddet fra deres aktiviteter til at finansiere og udvide deres sociale programmer og tjenester.<br><br>
+                        VeteranHavens social mission er integreret i hele deres forretningsmodel. De kanaliserer overskuddet fra deres aktiviteter til at finansiere og udvide deres sociale programmer og tjenester.<br><br>
                     </div>
 
                     <div style="clear: both">
