@@ -107,7 +107,7 @@
                         <p class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Veteranborgen
                         </p>
-                        <div class="dropdown-menu p-3" aria-labelledby="navbarDropdown">
+                        <div class="dropdown-menu p-3 bg-baggrund" aria-labelledby="navbarDropdown">
                             <div class="">
                             Med inspiration fra Trelleborg, er vi gået i gang med at skabe vores version.
                             Her drømer vi om en andedam som en voldgrav og en køkkenhave der skal ligne vikingeskibe og meget mere!
@@ -123,7 +123,7 @@
                         <p class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Orangeri
                         </p>
-                        <div class="dropdown-menu p-3" aria-labelledby="navbarDropdown">
+                        <div class="dropdown-menu p-3 bg-baggrund" aria-labelledby="navbarDropdown">
                             <div class="">
                                 Et firlænget drivhus anlagt med et tårn i midten. Det skal indeholde brændeovn, hængekøjer, lænestole og rislende vand. Stedet skal nydes når der er koldt i haven.
                                 <br><br>
@@ -137,7 +137,7 @@
                         <p class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                            Middelalderborg
                         </p>
-                        <div class="dropdown-menu p-3" aria-labelledby="navbarDropdown">
+                        <div class="dropdown-menu p-3 bg-baggrund" aria-labelledby="navbarDropdown">
                             <div class="">
                                 Vi vil skabe en middelalderinspireret legeborg til vores mindste gæster.
                                   <br><br>
@@ -152,7 +152,7 @@
                         <p class="nav-link dropdown-toggle"  id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             WC og Kloakering
                         </p>
-                        <div class="dropdown-menu p-3" aria-labelledby="navbarDropdown">
+                        <div class="dropdown-menu p-3 bg-baggrund" aria-labelledby="navbarDropdown">
                             <div class="">
                                 Vi ønsker at forbedre toiletforholdene for deltagerne og vores besøgende.
                                 <br><br>
