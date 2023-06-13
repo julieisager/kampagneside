@@ -251,6 +251,15 @@ body{
 }
 
 #stotforside{
+	@media (min-width: 0) and (max-width: 430px){
+		height: auto;
+		max-width: 300px!important;
+	}
+	@media (min-width: 431px) and (max-width: 630px){
+		height: auto;
+		max-width: 400px!important;
+	}
+
 	@media #{$mobil}{
 		height: auto;
 		max-width: 600px;
@@ -279,13 +288,17 @@ body{
 }
 
 .forsideligetekst{
-	@media (min-width: 0) and (max-width: 621px){
+	@media (min-width: 0) and (max-width: 488px){
+		width: 300px;
+		float: left;
+	}
+	@media (min-width: 489px) and (max-width: 621px){
 		width: 360px;
 		float: left;
 		margin: 0 10px;
 	}
 	@media(min-width: 622px) and (max-width: 750px){
-		width: 500px;
+		width: 490px;
 		float: left;
 		margin: 0 10px;
 	}
@@ -307,8 +320,12 @@ body{
 	}
 }
 
-#boxforside{
+.boxforside{
 
+	@media (min-width: 0) and (max-width: 488px){
+		height: 300px!important;
+		position: absolute!important;
+	}
 	@media #{$mobil}{
 		height: 230px;
 	}
@@ -355,6 +372,18 @@ body{
 
 .hvemligetekst{
 
+	@media (min-width: 0) and (max-width: 470px) {
+		width: 280px !important;
+		float: left;
+		margin: 0 10px !important;
+	}
+
+	@media (min-width: 471px) and (max-width: 600px) {
+		width: 320px !important;
+		float: left;
+		margin: 0 10px !important;
+	}
+
 	@media #{$mobil}{
 		width: 500px;
 		float: left;
@@ -378,7 +407,28 @@ body{
 		margin: 0 10px;
 
 	}
+	@media (min-width: 1501px) and (max-width: 2000px) {
+		width: 600px !important;
+		float: left;
+		margin: 0 10px !important;
+	}
+}
 
+.maps{
+	@media (min-width: 0) and (max-width: 439px) {
+		width: 300px;
+		height: 300px;
 
+	}
+	@media (min-width: 440px) and (max-width: 540px) {
+		width: 400px;
+		height: 400px;
 
+	}
+}
+
+.cardbilled{
+	@media (min-width: 0) and (max-width: 575px) {
+		display: none;
+	}
 }

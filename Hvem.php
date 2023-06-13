@@ -43,7 +43,7 @@
             </div>
         </div>
 
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-6 mt-2">
 
             <div  style="width: 20px; float: left">
                 <i class="fa-solid fa-arrow-right h4"></i>
