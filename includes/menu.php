@@ -35,7 +35,7 @@
 
             </ul>
 
-            <form class="d-flex align-items-center">
+            <form class="d-flex align-items-center mb-3">
                 <div class="row">
                     <div class="col">
                         <div class="collapse multi-collapse mx-2" id="multiCollapseExample1">

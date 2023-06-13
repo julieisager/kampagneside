@@ -17,7 +17,7 @@
         <div class="col-12 col-md-5 line mb-3 text-center ">
             <h5>Genveje</h5>
 
-            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="" class="btn textforside">Søgning</a></div>
+            <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="#top" class="btn textforside">Søgning</a></div>
             <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="RSV.php" class="btn textforside">Socialøkonomisk Virksomhed</a></div>
             <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="stot.php" class="btn textforside">Støt os</a></div>
             <div class="text-md-start text-sm-center mx-lg-5"><i class="fa-solid fa-arrow-right mb-2"></i><a href="Hvem.php" class="btn textforside">Vores Projekter</a></div>
