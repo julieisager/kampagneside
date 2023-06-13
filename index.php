@@ -5,7 +5,7 @@
 	
 	<title>Forside</title>
 	
-	<meta name="robots" content="All">
+	<meta name="robots" content="noindex">
 	<meta name="author" content="Udgiver">
 	<meta name="copyright" content="Information om copyright">
 

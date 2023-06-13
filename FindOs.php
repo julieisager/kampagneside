@@ -5,7 +5,7 @@
 
     <title>Kontakt</title>
 
-    <meta name="robots" content="All">
+    <meta name="robots" content="noindex">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
@@ -27,7 +27,7 @@
 
 <div class="container-fluid bg-gron d-flex justify-content-center">
     <div class="row">
-        <div class="col-12 col-md-4 text-center mb-3 mt-3">
+        <div class="col-12 col-md-4 mb-3 mt-3 text-sm-center text-md-start">
             <h3>Her finder du os</h3>
             <br>
             VeteranHaven <br>
@@ -46,7 +46,6 @@
             <br>
             Fredag 09:00-14:00
             <br>
-
         </div>
 
         <div class="col-12 col-md-8 mb-3 mt-3 d-flex justify-content-center">

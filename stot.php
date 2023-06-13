@@ -5,7 +5,7 @@
 
     <title>Støt</title>
 
-    <meta name="robots" content="All">
+    <meta name="robots" content="noindex">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
@@ -39,7 +39,7 @@
 <div class="container-fluid bg-white p-3">
     <div class="row">
         <div class="col text-center">
-            <h4>Vi mangler Veteranhave venner! Er det dig?</h4>
+            <h4>Vi mangler VeteranHave venner! Er det dig?</h4>
         </div>
     </div>
 </div>
