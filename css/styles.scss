@@ -43,6 +43,9 @@ $computer: "screen and (min-width: 1200px)";
 }
 
 .icons{
+	@media (min-width: 0) and (max-width: 460px){
+		font-size: 28px!important;
+	}
 	@media #{$mobil}{
 		font-size: xx-large;
 	}
@@ -81,6 +84,9 @@ $computer: "screen and (min-width: 1200px)";
 }
 
 #find{
+	@media (min-width: 0) and (max-width: 460px){
+		font-size: 13px!important;
+	}
 	@media #{$mobil}{
 		font-size: 15px;
 	}
@@ -441,3 +447,4 @@ body{
 		display: none;
 	}
 }
+
