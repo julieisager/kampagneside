@@ -58,7 +58,7 @@
 	</div>
 </div>
 
-<div class="container-fluid bg-white p-3">
+<div class="container-fluid p-3" style="background-color: #f7f7f7">
 	<div class="row">
 		<div class="col-12 col-md-6 d-flex justify-content-center align-items-center ratio-16x9">
             <img class="card-img" src="image/vhbillede.png" alt="vhbillede">
@@ -68,7 +68,7 @@
             <div class="ratio ratio-16x9" id="overtekst">
             <div class="card" id="boxforside">
 				<div class="card-body textforside">
-					VeteranHaven er en socialøkonomisk virksom hed.<br>
+					VeteranHaven er en socialøkonomisk virksomhed.<br>
                     Det betyder blandt andet at:<br><br>
 
                     <div>

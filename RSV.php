@@ -45,7 +45,7 @@
 
                     <div style="clear: both">
                     </div>
-                            <br>
+
                     <div  style="width: 20px; float: left">
                         <i class="fa-solid fa-arrow-right h4"></i>
                     </div>
@@ -56,7 +56,7 @@
 
                     <div style="clear: both">
                     </div>
-                            <br>
+
                     <div  style="width: 20px; float: left">
                         <i class="fa-solid fa-arrow-right h4"></i>
                     </div>
@@ -79,32 +79,24 @@
         ></div>
 
         <div class="col-md-4 bg-baggrund mt-5 mb-5 slagelsekom">
-            <div class=" mx-sm-5 my-sm-5 my-md-3 mx-md-3 flag">
-            <img class="card-img" src="image/SLA_logo_10x8.gif" alt="logo">
+            <div class=" mx-sm-5 my-sm-5 my-md-3 mx-md-3 flag" >
+            <img class="card-img" src="image/SLA_logo_10x8.gif" alt="logo" id="slagelsebilled">
             </div>
         </div>
     </div>
 </div>
 
-<div class="container-fluid bg-light">
-    <div class="row">
-        <div class="col p-3 mt-2 d-flex justify-content-center justify-content-md-end">
-            <h4 id="slagelse">Environmental - Social - Governance</h4>
-        </div>
-    </div>
-</div>
 
 
 <div class="container-fluid bg-light">
-    <div class="row">
-        <div class="col-md-5 d-flex justify-content-center">
+    <div class="row d-flex justify-content-evenly">
+        <div class="col-md-5 d-flex justify-content-center billedbox">
             <img class="card-img slagelsekom" src="image/Verden.png" alt="verden">
         </div>
 
-
-
-        <div class="col-12 col-md-7 d-flex mb-3 mt-1 justify-content-center">
-            <div class="card bg-white" style="border: none">
+        <div class="col-12 col-md-7 d-flex mb-3 mt-4">
+            <div class="card bg-white" style="border: none" id="boxRSV">
+                <div class="bg-light"><h4 id="slagelse">Environmental - Social - Governance</h4></div>
                 <div class="card-body textforside">
                     Her hos VeteranHaven, har vi tydelige krav til os selv og benytterne.
                     <br><br>

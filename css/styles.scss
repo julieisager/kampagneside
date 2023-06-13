@@ -324,21 +324,56 @@ body{
 	}
 }
 
+#boxRSV .billedbox{
+	@media #{$mobil}{
+		width: 800px;
+		height: auto;
+	}
+	@media #{$tablet}{
+		width: 800px;
+		height: auto;
+	}
+
+	@media #{$computer}{
+		width: 1200px;
+		height: auto;
+	}
+}
+
+#slagelsebilled{
+
+	@media #{$tablet}{
+		width: auto;
+		height: 300px;
+	}
+
+	@media #{$computer}{
+		width: auto;
+		height: 400px;
+	}
+}
+
 .hvemligetekst{
 
 	@media #{$mobil}{
-		width: 300px;
+		width: 500px;
 		float: left;
 		margin: 0 10px;
 	}
 	@media #{$tablet}{
-		width: 280px;
+		width: 300px;
+		float: left;
+		margin: 0 10px;
+
+	}
+	@media #{$nav}{
+		width: 380px;
 		float: left;
 		margin: 0 10px;
 
 	}
 	@media #{$computer}{
-		width: 420px;
+		width: 480px;
 		float: left;
 		margin: 0 10px;
 
