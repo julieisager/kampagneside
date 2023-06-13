@@ -7,6 +7,7 @@
 
     <meta name="description" content="En socialøkonomisk have til veteraner og andre med udfordringer i hverdagen. Her er naturen og fællesskabet i højsædet. Støt vores arbejde i dag. "/>
 
+    <meta name="keywords" content="danske veteraner, krigsveteraner i danmark, naturterapi, ptsd, slagelse, socialøkonomi, socialøkonomiske virksomheder, veteran, veteraner ptsd, veteranhaven">
 
 	<meta name="robots" content="all">
 	<meta name="author" content="Udgiver">

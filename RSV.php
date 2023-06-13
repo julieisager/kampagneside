@@ -6,6 +6,7 @@
     <title>Bliv klogere på VeteranHaven som en socialøkonomisk virksomhed.</title>
 
     <meta name="description" content="VeteranHaven er en socialøkonomisk virksomhed og har været registreret siden 2019. Det gør det muligt at drive en virksomhed med en positiv effekt på samfundet."/>
+    <meta name="keywords" content="danske veteraner, krigsveteraner i danmark, naturterapi, ptsd, slagelse, socialøkonomi, socialøkonomiske virksomheder, veteran, veteraner ptsd, veteranhaven">
 
 
     <meta name="robots" content="all">

@@ -6,6 +6,7 @@
     <title>Bliv en del af VeteranHaven og bidrag til at vi kan fuldende vores projekter.</title>
 
     <meta name="description" content="Bliv frivillig VeteranHave ven eller støt os gennem sponsorater og samarbejder. Det gør en kæmpe forskel for udsatte borgere i Slagelse Kommune."/>
+    <meta name="keywords" content="danske veteraner, krigsveteraner i danmark, naturterapi, ptsd, slagelse, socialøkonomi, socialøkonomiske virksomheder, veteran, veteraner ptsd, veteranhaven">
 
     <meta name="robots" content="all">
     <meta name="author" content="Udgiver">

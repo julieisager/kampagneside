@@ -6,6 +6,7 @@
     <title>Kender du til VeteranHaven, der ligger lige udenfor Slagelse?</title>
 
     <meta name="description" content="René Pamperin, en veteran med PTSD, grundlagde VeteranHaven, for at tilbyde hjælp og støtte til brugerne gennem naturen. Målet er at skabe et fællesskab."/>
+    <meta name="keywords" content="danske veteraner, krigsveteraner i danmark, naturterapi, ptsd, slagelse, socialøkonomi, socialøkonomiske virksomheder, veteran, veteraner ptsd, veteranhaven">
 
 
     <meta name="robots" content="all">

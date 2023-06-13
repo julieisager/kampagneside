@@ -6,6 +6,7 @@
     <title>Kom ud og besøg os i VeteranHaven, lige uden for Slagelse.</title>
 
     <meta name="description" content="Kontakt VeteranHaven i dag for at lære mere om vores socialøkonomiske virksomhed og hvordan du kan støtte vores mission til fordel for stedets brugere."/>
+    <meta name="keywords" content="danske veteraner, krigsveteraner i danmark, naturterapi, ptsd, slagelse, socialøkonomi, socialøkonomiske virksomheder, veteran, veteraner ptsd, veteranhaven">
 
 
     <meta name="robots" content="all">
