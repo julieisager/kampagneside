@@ -5,6 +5,8 @@
 
     <title>Støt</title>
 
+    <meta name="description" content="Bliv frivillig VeteranHave ven eller støt os gennem sponsorater og samarbejder. Det gør en kæmpe forskel for udsatte borgere i Slagelse Kommune."/>
+
     <meta name="robots" content="all">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">

@@ -4,7 +4,10 @@
 	<meta charset="utf-8">
 	
 	<title>Forside</title>
-	
+
+    <meta name="description" content="En socialøkonomisk have til veteraner og andre med udfordringer i hverdagen. Her er naturen og fællesskabet i højsædet. Støt vores arbejde i dag. "/>
+
+
 	<meta name="robots" content="all">
 	<meta name="author" content="Udgiver">
 	<meta name="copyright" content="Information om copyright">

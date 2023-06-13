@@ -5,6 +5,9 @@
 
     <title>Hvem er vi</title>
 
+    <meta name="description" content="René Pamperin, en veteran med PTSD, grundlagde VeteranHaven, for at tilbyde hjælp og støtte til brugerne gennem naturen."/>
+
+
     <meta name="robots" content="all">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">

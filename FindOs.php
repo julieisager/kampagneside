@@ -5,6 +5,9 @@
 
     <title>Kontakt</title>
 
+    <meta name="description" content="Kontakt VeteranHaven i dag for at lære mere om vores socialøkonomiske virksomhed og hvordan du kan støtte vores mission til fordel for stedets brugere."/>
+
+
     <meta name="robots" content="all">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">

@@ -5,6 +5,9 @@
 
     <title>RSV</title>
 
+    <meta name="description" content="VeteranHaven er en socialøkonomisk virksomhed og har været registreret siden 2019. Det gør det muligt at drive en virksomhed med en positiv effekt på samfundet."/>
+
+
     <meta name="robots" content="all">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
