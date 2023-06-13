@@ -68,7 +68,7 @@
             <img class="card-img" src="image/vhbillede.png" alt="vhbillede">
 		</div>
 
-		<div class="col-12 col-md-6 mb-3 mt-3 d-flex align-items-center justify-content-center" style="position: relative">
+		<div class="col-12 col-md-6 mb-3 mt-3 d-flex align-items-center justify-content-center boxtilcol" >
             <div class="ratio ratio-16x9" id="overtekst">
             <div class="card boxforside">
 				<div class="card-body textforside">

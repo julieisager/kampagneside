@@ -288,7 +288,11 @@ body{
 }
 
 .forsideligetekst{
-	@media (min-width: 0) and (max-width: 488px){
+	@media (min-width: 0) and (max-width: 404px){
+		width: 260px;
+		float: left;
+	}
+	@media (min-width: 406px) and (max-width: 488px){
 		width: 300px;
 		float: left;
 	}
@@ -323,8 +327,8 @@ body{
 .boxforside{
 
 	@media (min-width: 0) and (max-width: 488px){
+		top: -50px;
 		height: 300px!important;
-		position: absolute!important;
 	}
 	@media #{$mobil}{
 		height: 230px;
@@ -338,6 +342,11 @@ body{
 		height: 300px;
 		top: 40px;
 
+	}
+}
+.boxtilcol{
+	@media (min-width: 0) and (max-width: 488px){
+		height: 400px!important;
 	}
 }
 
