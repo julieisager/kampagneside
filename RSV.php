@@ -51,7 +51,7 @@
                     </div>
 
                     <div class="hvemligetekst mb-2">
-                        VeteranHavens social mission er integreret i hele deres forretningsmodel. De kanaliserer overskuddet fra deres aktiviteter til at finansiere og udvide deres sociale programmer og tjenester.<br><br>
+                        VeteranHavens sociale mission er integreret i hele deres forretningsmodel. De kanaliserer overskuddet fra deres aktiviteter til at finansiere og udvide deres sociale programmer og tjenester.<br><br>
                     </div>
 
                     <div style="clear: both">
@@ -62,7 +62,7 @@
                     </div>
 
                     <div class="hvemligetekst mb-2">
-                        VeteranHaven fungerer som en inspirerende model for, hvordan socialt ansvar og økonomisk bæredygtighed kan gå hånd i hånd. De viser, at det er muligt at drive en virksomhed samtidig med at man gør en positiv forskel i samfundet og støtter sårbare grupper.
+                        VeteranHaven fungerer som en inspirerende model for, hvordan socialt ansvar og økonomisk bæredygtighed kan gå hånd i hånd. De viser, at det er muligt at drive en virksomhed, samtidig med at man gør en positiv forskel i samfundet og støtter sårbare grupper.
                     </div>
 
                     <div style="clear: both">
