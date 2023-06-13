@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Hvem er vi</title>
+    <title>Kender du til VeteranHaven, der ligger lige udenfor Slagelse?</title>
 
-    <meta name="description" content="René Pamperin, en veteran med PTSD, grundlagde VeteranHaven, for at tilbyde hjælp og støtte til brugerne gennem naturen."/>
+    <meta name="description" content="René Pamperin, en veteran med PTSD, grundlagde VeteranHaven, for at tilbyde hjælp og støtte til brugerne gennem naturen. Målet er at skabe et fællesskab."/>
 
 
     <meta name="robots" content="all">

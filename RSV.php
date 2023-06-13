@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>RSV</title>
+    <title>Bliv klogere på VeteranHaven som en socialøkonomisk virksomhed.</title>
 
     <meta name="description" content="VeteranHaven er en socialøkonomisk virksomhed og har været registreret siden 2019. Det gør det muligt at drive en virksomhed med en positiv effekt på samfundet."/>
 

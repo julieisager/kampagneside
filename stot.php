@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Støt</title>
+    <title>Bliv en del af VeteranHaven og bidrag til at vi kan fuldende vores projekter.</title>
 
     <meta name="description" content="Bliv frivillig VeteranHave ven eller støt os gennem sponsorater og samarbejder. Det gør en kæmpe forskel for udsatte borgere i Slagelse Kommune."/>
 

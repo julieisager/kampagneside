@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Kontakt</title>
+    <title>Kom ud og besøg os i VeteranHaven, lige uden for Slagelse.</title>
 
     <meta name="description" content="Kontakt VeteranHaven i dag for at lære mere om vores socialøkonomiske virksomhed og hvordan du kan støtte vores mission til fordel for stedets brugere."/>
 
