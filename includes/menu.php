@@ -25,7 +25,7 @@
                 </li>
 
                 <li class="nav-item mx-3 lilla d-flex align-items-center" id="firkant">
-                    <a  class="nav-link active text-center" aria-current="page" href="stot.php" id="lillafarve">Støt</a>
+                    <a class="nav-link active text-center" aria-current="page" href="stot.php" id="lillafarve">&nbsp;Støt</a>
                 </li>
 
 

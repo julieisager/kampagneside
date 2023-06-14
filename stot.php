@@ -146,9 +146,9 @@
 <div class="container-fluid bg-white mb-4 mt-3 d-flex justify-content-center">
     <div class="row">
         <div class="col-12 col-lg-3 d-flex justify-content-center"><a href="https://www.vellivforeningen.dk/"><img src="image/Sponsor/velliv-foreningen.png" alt="velliv" class="ratio mx-3 my-3" style="width: auto; max-height: 50px"></a></div>
-        <div class="col-12 col-lg-3 d-flex justify-content-center"><a href="https://k-juby-smiths-legat.dk/"><img src="image/Sponsor/k.juby.png" alt="kjuby" class="ratio mx-3 my-3" style="width: auto; max-height: 55px"></div></a>
-        <div class="col-12 col-lg-3 d-flex justify-content-center"><a href="https://veluxfoundations.dk/da"><img src="image/Sponsor/velux_fonden.png" alt="velux" class="ratio mx-3 my-3" style="width: auto; max-height: 50px"></div></a>
-        <div class="col-12 col-lg-3 d-flex justify-content-center"><a href="https://minipigs.dk/"><img src="image/Sponsor/Ellegaard.png" alt="ellagaard" class="ratio mx-3 my-3" style="width: auto; max-height: 45px"></div></a>
+        <div class="col-12 col-lg-3 d-flex justify-content-center"><a href="https://k-juby-smiths-legat.dk/"><img src="image/Sponsor/k.juby.png" alt="kjuby" class="ratio mx-3 my-3" style="width: auto; max-height: 55px"></a></div>
+        <div class="col-12 col-lg-3 d-flex justify-content-center"><a href="https://veluxfoundations.dk/da"><img src="image/Sponsor/velux_fonden.png" alt="velux" class="ratio mx-3 my-3" style="width: auto; max-height: 50px"></a></div>
+        <div class="col-12 col-lg-3 d-flex justify-content-center"><a href="https://minipigs.dk/"><img src="image/Sponsor/Ellegaard.png" alt="ellagaard" class="ratio mx-3 my-3" style="width: auto; max-height: 45px"></a></div>
 
     </div>
 </div>

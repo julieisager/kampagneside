@@ -28,7 +28,7 @@ $nav: "screen and (min-width: 992px)";
 $computer: "screen and (min-width: 1200px)";
 
 
-// menu/header og footer start
+
 .line{
 	@media #{$mobil}{
 		border: none;
@@ -111,10 +111,6 @@ $computer: "screen and (min-width: 1200px)";
 	}
 }
 
-// menu/header og footer slut
-
-
-
 
 
 body{
@@ -188,14 +184,14 @@ body{
 	display: block;
 	width: 0;
 	height: 0;
-	border-left: 30px solid transparent;
-	border-right: 30px solid transparent;
+	border-left: 35px solid transparent;
+	border-right: 34px solid transparent;
 	border-top: 25px solid #907CB0;
 
 }
 	.lilla{
 		background-color: #907CB0;
-		width: 60px;
+		width: 68px;
 
 	}
 }
