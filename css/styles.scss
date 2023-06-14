@@ -184,20 +184,21 @@ body{
 	display: block;
 	width: 0;
 	height: 0;
-	border-left: 35px solid transparent;
-	border-right: 34px solid transparent;
+	border-left: 30px solid transparent;
+	border-right: 30px solid transparent;
 	border-top: 25px solid #907CB0;
 
 }
 	.lilla{
 		background-color: #907CB0;
-		width: 68px;
+		width: 60px;
 
 	}
 }
 
 .navbar{
 	--bs-navbar-padding-y: none;
+
 }
 
 
