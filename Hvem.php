@@ -114,7 +114,7 @@
                         <div class="dropdown-menu p-3 bg-baggrund" aria-labelledby="navbarDropdown">
                             <div class="">
                             Med inspiration fra Trelleborg, er vi gået i gang med at skabe vores version.
-                            Her drømer vi om en andedam som en voldgrav og en køkkenhave der skal ligne vikingeskibe og meget mere!
+                            Her drømmer vi om en andedam som en voldgrav og en køkkenhave der skal ligne vikingeskibe og meget mere!
                             <br><br>
                             Støttet af: Trygfonden &nbsp; Søger: Flere sponsorer
 
@@ -131,7 +131,7 @@
                             <div class="">
                                 Et firlænget drivhus anlagt med et tårn i midten. Det skal indeholde brændeovn, hængekøjer, lænestole og rislende vand. Stedet skal nydes når der er koldt i haven.
                                 <br><br>
-                                Støttet af: Veterancenteret og Nikolai og Felix Foden - Grever af Monpezat
+                                Støttet af: Veterancenteret og Nikolai og Felix Fonden - Grever af Monpezat
 
                             </div>
                         </div>

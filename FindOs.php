@@ -76,7 +76,7 @@
                 <div class="card-body bg-baggrund">
                     <p class="card-text text-center fs-5">10 års Jubilæum!</p>
                     <p class="card-text text-center fw-light">Mandag d. 12/6 kl. 11</p>
-                    <p class="card-text">Fejre vores jubilæum med pølser, brød og sodavand ved bådpladsen sammen med os.</p>
+                    <p class="card-text">Fejre vores jubilæum med pølser, brød og sodavand ved bålpladsen sammen med os.</p>
                 </div>
             </div>
         </div>

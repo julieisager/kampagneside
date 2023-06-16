@@ -9,7 +9,7 @@
             4200 Slagelse <br>
             <br>
             Tlf: 52 40 04 55 <br>
-            adminstration@veteranhaven.dk <br>
+            administration@veteranhaven.dk <br>
             CVR-nr: 34746567 <br>
             </p>
         </div>

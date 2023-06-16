@@ -81,7 +81,7 @@
                         </div>
 
                         <div class="forsideligetekst">
-                            Vi skal være uafhængige af det offentligt.
+                            Vi skal være uafhængige af det offentlige.
                         </div>
                     </div>
                     <div style="clear: both">
