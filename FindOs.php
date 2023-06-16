@@ -85,7 +85,7 @@
                 <img src="image/kontakt/runforvets.png" class="card-img-top" alt="runforvets">
                 <div class="card-body bg-baggrund">
                     <p class="card-text text-center fs-5">Run for Vets</p>
-                    <p class="card-text text-center fw-light">Lærdag d. 12/8 kl. 10</p>
+                    <p class="card-text text-center fw-light">Lørdag d. 12/8 kl. 10</p>
                     <p class="card-text">Fra Antvorskov Kasserne kører motorcyklerne en smuk rute ud til VeteranHaven.</p>
                 </div>
             </div>
