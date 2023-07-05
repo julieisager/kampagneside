@@ -8,7 +8,7 @@
     <meta name="description" content="Bliv frivillig VeteranHave ven eller støt os gennem sponsorater og samarbejder. Det gør en kæmpe forskel for udsatte borgere i Slagelse Kommune."/>
     <meta name="keywords" content="danske veteraner, krigsveteraner i danmark, naturterapi, ptsd, slagelse, socialøkonomi, socialøkonomiske virksomheder, veteran, veteraner ptsd, veteranhaven">
 
-    <meta name="robots" content="all">
+    <meta name="robots" content="noindex">
     <meta name="author" content="Udgiver">
     <meta name="copyright" content="Information om copyright">
 
